@@ -53,6 +53,10 @@ Mark `SOURCE-VERIFIED EXAMPLE — NOT VERIFIED FOR A SPECIFIC STUDENT` if the cu
 - Keep classroom descriptions separate from overall legal curriculum requirements.
 - If an official source is inaccessible or not current, flag `NOT VERIFIED` and leave a useful link.
 - Public repository files may be Markdown; the **student-facing generated package stays PDF-only**.
+- **Primary UX:** one searchable `00_FIND_ALT_HER_<SUBJECT>_<date-version>.pdf` at top of each subject area, with supporting PDF outputs in a new `AI-Generated/<run>/` subfolder. If no storage write, deliver download PDFs and advise manual placement.
+- **Strict phase order:** inventory/analyze the explicitly shared folder including embedded images, photos, audio and video when supported → virtually organize references by subject/topic → produce supporting offline PDF summaries → **produce the primary searchable index LAST**, including every actually created PDF and verified page.
+- **Media:** index visible diagrams and pictures using a textual subject description, actual source filename and verified location. Audio/video should yield concise factual study summaries, **not a full verbatim transcript by default**. Never hallucinate watched/listened media or timestamps; mark unsupported files as not analyzed.
+- Virtual organization never moves or renames source materials. Creating new files, including one new index in a subject root if allowed, does not authorize modification of original files.
 - Do not modify README onboarding flow in a way that requires any particular cloud service, website or app.
 
 ## Definition of done
