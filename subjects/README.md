@@ -16,8 +16,14 @@ Her samles **offentligt delbare** faglige indgange: kontrollerede kilder, vejled
 ## Aktuelle fagmapper
 
 - [Biologi C](biologi-c/README.md) — *pilot, kræver elevens forløbstype*.
-- [Historie B](historie-b/README.md) — *pilot, kræver elevens forløbstype*.
-- [Matematik C](matematik-c/README.md) — *pilot, kræver elevens forløbstype*.
+- [Historie B](historie-b/README.md) — *kildeeksempel for hf-enkeltfag 2022; se KS ved toårigt hf*.
+- [Matematik C](matematik-c/README.md) — *kildeeksempel for toårigt hf 2024*.
+- [Dansk A](dansk-a/README.md) — *kildeeksempel for toårigt hf 2026*.
+- [Engelsk B](engelsk-b/README.md) — *kildeeksempel for toårigt hf 2024*.
+- [Idræt C](idraet-c/README.md) — *kildeeksempel for toårigt hf 2024*.
+- [Naturvidenskabelig faggruppe](naturvidenskabelig-faggruppe/README.md) — *kildeeksempel for toårigt hf 2017*.
+- [Kultur- og samfundsfaggruppe](kultur-og-samfundsfaggruppe/README.md) — *kildeeksempel for toårigt hf 2022*.
+- [Filosofi C](filosofi-c/README.md) — *kildeeksempel for valgfag 2017*.
 
 Flere verificerede fagprofiler tilføjes efterhånden. At et fag ikke er med her, betyder **ikke**, at det ikke understøttes af systemets generelle indeksering.
 
