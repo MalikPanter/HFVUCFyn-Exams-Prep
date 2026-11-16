@@ -10,6 +10,7 @@
 | HF-enkeltfag | Skolens fuld-HF-model og ministeriets hf-e-indgang fundet | **Kildeverificeret oversigt**, ikke hver individuel prøve |
 | Valgfag | Ministeriets valgfagsside og skolens prisliste fundet | **Kildeverificeret indgang**, ikke faktisk holdtilbud |
 | Censor og bedømmelse | Officielle sider om censorrollen og faglig information til skriftlige censorer | **Kildeverificeret indgang** |
+| Undervisningsbeskrivelser | STUK-vejledning om dokumentation af holdets konkrete undervisning, opdateret februar 2026 | **Kildeverificeret metode** |
 | Fagspecifikke bedømmelseskriterier | Konkret læst i dansk A 2026, engelsk B 2024, matematik C 2024, historie B hf-e 2022, idræt C 2024, filosofi C valgfag 2017, NF 2017 og KS 2022 | **Otte læreplanseksempler undersøgt** |
 | Hjælpemidler | 2026-regelgrundlag og officiel hjælpemiddeloversigt identificeret | **Indgang kontrolleret**; kontrollér igen ved elevens termin |
 | Alle specifikke fag/niveauer/årgange | Ikke gennemgået dokument for dokument | **Åbent** |
