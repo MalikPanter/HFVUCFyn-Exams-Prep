@@ -34,7 +34,7 @@ Hvis originale medier ikke er hentet til elevens offline-computer, er en filhenv
 ## 2. Arbejd i denne rækkefølge
 
 **Fase A — Inventar, adgang og analyse (ingen produktion endnu)**
-1. Registrér hele **det delte område**, inklusive undermapper og alle medietyper.
+1. Registrér hele **det delte område**, inklusive undermapper og alle medietyper. Gem en intern, fuldstændig kildefortegnelse med **præcise relative stier og filnavne for alle originale filer** og tællinger pr. filtype. **Selvstændige JPG/PNG/WEBP-filer skal tælles særskilt fra billedobjekter inde i PDF'er**; ukendte/uåbnelige filer skal stadig registreres.
 2. Kontrollér, hvilke filer der kan åbnes helt, delvist eller slet ikke, og registrér præcis original sti og navn.
 3. Læs dokumenter, undersøg billeder, og analyser lyd/video **kun når den konkrete funktion er tilgængelig**. Gæt ikke ud fra filnavn eller thumbnail.
 4. Registrér undervisningsbeskrivelse, aktuelle fag-/niveauoplysninger og officielle bedømmelseskriterier, når de faktisk er dokumenteret.
@@ -43,13 +43,13 @@ Hvis originale medier ikke er hentet til elevens offline-computer, er en filhenv
 1. Sortér **referencer** i fag → emner → underemner → filer → præcise sidetal, slides, figurer eller tidsstempler.
 2. Find relaterede emner, billeder, klip og mangler. Lav et internt indeksudkast og en plan for supplerende noter.
 3. **Flyt, omdøb eller reorganisér aldrig originale filer**. »Organisering« er her en **virtuel katalogisering** og eventuelt nye outputmapper, ikke ændring af elevens materiale.
-4. Hold separate fag adskilt. Hvis en fil rummer flere fag, må den refereres under flere fag, men skal forblive urørt.
+4. Hold separate fag adskilt. **En fremmed fagfil i den valgte mappe skal med i filoversigten, men ikke automatisk i dette fags emneindeks eller repetitionsnoter**, selvom den indeholder almindelige ord som 'diskussion'. Markér `uden for dette fag` eller dokumentér præcis relevant passage, hvis den medtages på tværs af fag. Hvis en fil rummer flere fag, må den refereres under flere fag **kun ved påviselig faglig relevans**, men skal forblive urørt.
 
 **Fase C — Generér supplerende PDF'er**
 1. Skriv først nye separate PDF'er for mangler, faglige mål/bedømmelseskriterier, repetitionsnoter, offline-kompendium mv., på **det valgte fags undervisningssprog**.
 2. Lav **enkle, forståelige forklaringer** og markér tydeligt egne AI-skabte eksempler.
 3. Gem dem i en ny `AI-Generated/<kørsel>/`-mappe ved det respektive fag, **hvis** brugeren har givet adgang til netop den placering, og lagringsværktøjet understøtter det. Ellers leveres downloadbare PDF'er til brugeren.
-4. Efter produktionen: kontrollér de faktiske PDF-filenames og sidetal. Man må ikke referere til en fremtidig ikke-eksisterende fil.
+4. Efter produktionen: kontrollér de faktiske PDF-filenames og sidetal. Man må ikke referere til en fremtidig ikke-eksisterende fil. **Indeksets henvisninger til AI-PDF'er skal pege på faktisk forklarende brødtekst, ikke sidetal fundet alene i dokumentets indholdsfortegnelse.**
 
 **Fase D — Byg den store søge-PDF TIL SIDST**
 1. Lav `00_FIND_ALT_HER_<FAG>_<DATO-OG-VERSION>.pdf` med **samtlige verificerede originalkilder og de nye PDF'er**.
@@ -92,6 +92,9 @@ Dette løser nødvendigheden af først at lave de øvrige PDF'er og **derefter**
 - [ ] Søgning viser verificeret **filnavn + mappe + præcist sted**, også for billeder, lyd og video.
 - [ ] Alle andre faktisk genererede PDF'er har en post i indeks-PDF'en og et korrekt sidetal eller afsnit.
 - [ ] Ingen fiktive medietidsstempler, sideovergange eller kilder.
+- [ ] **Reconciliation gate:** Antal originalfiler i den oprindelige mappe = summen af registrerede originalfiler per filtype = antal unikke originale kildefil-referencer i `02_FILOVERSIGT`. Manglende medier, herunder selvstændige JPEG/PNG, må ikke skjules i samlet billedeoptælling. Ved mismatch markeres pakken **delvist færdig**, indtil den er rettet.
+- [ ] Originale filer fra andre fag i samme mappe optræder i inventaret, men **ikke som fagligt kildebevis** i dette fags emneindeks, medmindre relevant konkret indhold er verificeret.
+- [ ] Sidereferencer til nygenererede PDF'er peger på faktiske forklaringer, **ikke blot indholdsfortegnelsens emneord**.
 - [ ] Alle kilder, herunder utilgængelige, får ærlig status.
 - [ ] PDF'en kan bruges **offline**, og det er tydeligt om originalfilen også skal downloades.
 - [ ] Alle faser er fulgt i rækkefølge; **index genereres sidst**.
