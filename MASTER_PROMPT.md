@@ -56,6 +56,7 @@ Lav følgende selvstændige **søgbare, offline-læsbare PDF'er**. Brug klare ti
 - `03_LAEREPLANSDAEKNING_[dato].pdf`: Dokumenterede læreplanskrav og en nøgtern oversigt over dækning, delvis dækning og mulige huller.
 - `04_REPETITIONSNOTER_[dato].pdf`: Koncise, originale forklaringer til de emner, hvor supplerende noter faktisk hjælper. Markér AI-skrevne forklaringer og kildegrundlag.
 - `05_EKSAMENSOVERSIGT_[dato].pdf`: Prøveform og relevante hjælpemiddelregler **kun når verificeret**; ellers tydelig tjekliste til skolen.
+- `06_OFFLINE_STUDIEKOMPENDIUM_[dato].pdf`: En samlet, selvstændig og søgbar PDF med korte originale forklaringer af de emner, der faktisk er behandlet i materialet, samt de supplerende emner der tydeligt er markeret. Indholdet skal kunne bruges til repetition **uden at åbne de oprindelige filer eller internettet**. Henvis stadig til kilder. Kopiér ikke ophavsretligt beskyttede lærebøger i større omfang.
 
 Hvis et dokument ikke kan laves forsvarligt, opret i stedet en kort PDF, der forklarer hvorfor, og hvad der mangler. Opret ikke en tom rapport, der ser færdig ud. Du må opdele store dokumenter i mindre PDF'er, men behold et dækkende hovedindeks. **Ingen JSON-, HTML-, DOCX- eller andre obligatoriske elev-outputfiler.**
 
