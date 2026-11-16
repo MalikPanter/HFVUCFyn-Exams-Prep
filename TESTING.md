@@ -33,6 +33,7 @@ Kontrollér:
 Brug et **syntetisk** datasæt, der indeholder en billedfil med relevant naturfagsdiagram, en PDF med indlejret figur, en kort lydoptagelse og en kort video samt en fil, der ikke kan afspilles.
 
 - [ ] Billeder og figurer undersøges, hvor de tilgængelige værktøjer gør det muligt, og kan findes via **søgbare fagord** i indeks-PDF'en.
+- [ ] **Selvstændige** `.png`, `.jpg`, `.jpeg` og `.webp`-filer fra undermapper er **alle** med i `02_FILOVERSIGT` (selv når billedet ikke kunne analyseres). **Indlejrede figurer i PDF'er tæller ikke som erstatning** for de selvstændige filer.
 - [ ] Der findes konkret **originalfilnavn**, sti og bekræftet side/figur/slide for et billede.
 - [ ] Video-/lydresuméer forklarer de **vigtige faglige pointer**, uden fuld ordret transskription som standard.
 - [ ] Tidsstempler findes kun, hvis de faktisk er kontrolleret.
@@ -49,6 +50,9 @@ Brug et **syntetisk** datasæt, der indeholder en billedfil med relevant naturfa
 - [ ] Det sidste indeks indeholder **både originaler, billeder, medier og faktisk genererede PDF'er**.
 - [ ] `Ctrl+F` finder relevante emner i indholdet, ikke kun i titel.
 - [ ] Oversigtens originalfilnavne og sidetal stemmer med input.
+- [ ] **Afstemning:** Tæl alle originalfiler i den valgte mappe inkl. undermapper, opdel i PDF/DOCX/images/audio/video/andre, og sammenlign med `02_FILOVERSIGT` og statusrapport. `Fundet = sum af filtyper = registreret i oversigt`. Enhver forskel er **fejl og delvis status**.
+- [ ] En fil fra et andet fag i en valgt fagmappe er registreret som `uden for dette fag` og bruges ikke i faglige søgeposter på grund af almindelige ord alene.
+- [ ] Sidehenvisninger i indeks til AI-PDF'er er kontrolleret mod faktisk forklarende indhold frem for blot indholdsfortegnelsen.
 - [ ] PDF'er kan læses uafhængigt af cloudlinks; eventuel manglende originalfil er tydeligt nævnt.
 - [ ] Tydelig adskillelse af faktiske kilder og AI-genereret supplerende indhold.
 - [ ] Skolens specifikke eksamensregler indgår kun som verificerede oplysninger.
@@ -65,7 +69,7 @@ Brug et **syntetisk** datasæt, der indeholder en billedfil med relevant naturfa
 
 - [ ] ChatGPT giver en **samlet slutrapport til allersidst**, også når processen kun kunne færdiggøres delvist.
 - [ ] Første linje angiver **færdig/delvist færdig/ikke gennemført**, og viser tydeligt det faktiske hovedindeks.
-- [ ] Nøjagtige og verificerede antal for **fundet, fuldt læst, delvist læst og ikke læst**, også for billeder/lyd/video. Ukendte tal mærkes `ikke verificeret`.
+- [ ] Nøjagtige og verificerede antal for **fundet, fuldt læst, delvist læst og ikke læst**, også for billeder/lyd/video. **Totalen skal være afstemt** med alle selvstændige originalfiler; ellers må rapporten ikke skrive `færdig`. Ukendte tal mærkes `ikke verificeret`.
 - [ ] Alle **faktisk oprettede** PDF'er har fuldt filnavn, placering/downloadlink og kort formål.
 - [ ] Mulige mangler, utilgængelige kilder og usikre læreplaner/bedømmelseskriterier står tydeligt.
 - [ ] Det oplyses, at originale filer ikke er ændret, og hvilke **nye** mapper/filer der faktisk er oprettet.
