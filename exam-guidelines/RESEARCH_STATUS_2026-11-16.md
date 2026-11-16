@@ -10,7 +10,7 @@
 | HF-enkeltfag | Skolens fuld-HF-model og ministeriets hf-e-indgang fundet | **Kildeverificeret oversigt**, ikke hver individuel prøve |
 | Valgfag | Ministeriets valgfagsside og skolens prisliste fundet | **Kildeverificeret indgang**, ikke faktisk holdtilbud |
 | Censor og bedømmelse | Officielle sider om censorrollen og faglig information til skriftlige censorer | **Kildeverificeret indgang** |
-| Fagspecifikke bedømmelseskriterier | Konkret læst i dansk A 2026, matematik C 2024, historie B hf-e 2022, NF 2017 og KS 2022 | **Fem læreplanseksempler undersøgt** |
+| Fagspecifikke bedømmelseskriterier | Konkret læst i dansk A 2026, engelsk B 2024, matematik C 2024, historie B hf-e 2022, idræt C 2024, filosofi C valgfag 2017, NF 2017 og KS 2022 | **Otte læreplanseksempler undersøgt** |
 | Hjælpemidler | 2026-regelgrundlag og officiel hjælpemiddeloversigt identificeret | **Indgang kontrolleret**; kontrollér igen ved elevens termin |
 | Alle specifikke fag/niveauer/årgange | Ikke gennemgået dokument for dokument | **Åbent** |
 | Faglige censorspecifikke noter i Prøvebanken | Ikke læst; adgang afhænger af materiale og rettigheder | **Åbent** |
@@ -23,8 +23,11 @@
 - [Historie B, hf-enkeltfag, 2022](https://uvm.dk/media/fkinbbnp/220602-historie-b-hf-enkeltfag-august-2022.pdf), pkt. 2.1, 4.2 og 4.3.
 - [Naturvidenskabelig faggruppe, toårigt hf, 2017](https://uvm.dk/media/ulqcatgo/naturvidenskabelig-faggruppe-toaarigt-hf-august-2017-ua.pdf), pkt. 2.1, 4.2 og 4.3.
 - [Kultur- og samfundsfaggruppen, toårigt hf, 2022](https://uvm.dk/media/vdzotiqr/220602-kultur-og-samfundsfaggruppen-toaarigt-hf-august-2022.pdf), pkt. 2.1, 4.2 og 4.3.
+- [Engelsk B, toårigt hf, 2024](https://uvm.dk/media/h0mpyar4/240613-engelsk-b-toaarigt-hf-august-2024.pdf), pkt. 2.1, 4.2 og 4.3.
+- [Idræt C, toårigt hf, 2024](https://uvm.dk/media/dbqiqmxu/240613-idraet-c-toaarigt-hf-august-2024.pdf), pkt. 2.1, 4.2 og 4.3.
+- [Filosofi C, valgfag, 2017](https://uvm.dk/media/mktpnhh2/filosofi-c-valgfag-august-2017.pdf), pkt. 2.1, 4.2 og 4.3.
 
-**Disse læste dokumenter kan være omfattet af overgangsregler.** Vi har **ikke** verificeret, at de fem årgange gælder for enhver nuværende elev.
+**Disse læste dokumenter kan være omfattet af overgangsregler.** Vi har **ikke** verificeret, at de otte årgange gælder for enhver nuværende elev.
 
 ## Vigtig researchstruktur
 
