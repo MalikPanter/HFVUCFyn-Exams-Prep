@@ -12,6 +12,8 @@ Brug ChatGPT til at samle og forstå dine HF-noter. Du bestemmer selv, hvor dine
 
 💡 **Tip:** Det er nemmest, hvis alle dine noter ligger i **én samlet hovedmappe** (gerne med undermapper for hvert fag). Det er kun en anbefaling – **du behøver ikke flytte, sortere eller omdøbe noget**.
 
+📌 **Har du din lærers undervisningsbeskrivelse eller forløbsoversigt?** Læg den gerne sammen med dine noter, så ChatGPT kan sammenligne det, I har gennemgået, med det du har gemt. Det er ikke et krav.
+
 ### 📋 Kopiér denne startprompt
 
 **⚠️ VIGTIGT: Udfyld de to første linjer med dit eget mappenavn og placering, før du sender prompten.** Du kan også indsætte et link til mappen. En lokal mappe skal deles med ChatGPT via upload eller en understøttet adgangsmetode; en sti alene giver ikke adgang.
@@ -83,6 +85,7 @@ ChatGPT kan ikke nødvendigvis åbne alle filer eller lagertjenester. Det skal f
 - [Fuld masterprompt](MASTER_PROMPT.md)
 - [Alle HF-fag og valgfag](subjects/FAGKATALOG.md)
 - [Hvordan bedømmes de forskellige fag?](exam-guidelines/BEDOEMMELSE_OG_FAGLIGE_KRAV.md)
+- [Hvad er en undervisningsbeskrivelse?](exam-guidelines/UNDERVISNINGSBESKRIVELSE.md)
 - [Fag og niveauer](subjects/README.md)
 - [Officielle eksamensregler og kilder](exam-guidelines/README.md)
 - [Ofte stillede spørgsmål](FAQ.md)
