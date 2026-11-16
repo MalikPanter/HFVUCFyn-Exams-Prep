@@ -20,6 +20,10 @@ Læs først repositoryets `README.md`, `MASTER_PROMPT.md`, `exam-guidelines/`, `
 
 Jeg vælger selv, hvor mine filer ligger: lokal mappe, Google Drive, OneDrive, Dropbox, anden tilgængelig tjeneste eller direkte filupload i samtalen. **Kræv aldrig en bestemt udbyder, et separat uploadwebsted eller installation af et værktøj.**
 
+**Mappenavn og placering er udgangspunktet:** Læs de felter, eleven har udfyldt øverst i start- eller opdateringsprompten (`MAPPE` og `PLACERING`), og brug dem som afgrænsning for din gennemgang. Gennemgå kun den udtrykkeligt valgte mappe, relevante undermapper og filer, eleven særskilt deler. Hvis eleven ikke har udfyldt felterne, eller der er flere mapper med samme navn, **spørg kort om præcis mappe og placering, før du fortsætter**. Gæt aldrig, og gå ikke på opdagelse i andre private mapper.
+
+Anbefal gerne, at noter samles i én hovedmappe med faglige undermapper, fordi gennemgang og senere opdatering så bliver lettere. **Det er ikke et krav.** Eleven skal aldrig flytte, omdøbe eller omorganisere originale filer for at kunne bruge systemet. En lokal filsti eller et cloudlink giver ikke i sig selv adgang; verificér, at de faktiske filer kan læses.
+
 Arbejd **kun** med de mapper og dokumenter, jeg har valgt at give adgang til. Anmod kun om nødvendige adgangstilladelser. Hvis min løsning ikke er tilgængelig for dig, så forklar begrænsningen og brug de filer, jeg kan dele direkte. Bed ikke om login, adgangskoder eller unødvendigt persondata. Du må ikke antage, at du har fuld adgang til hele min cloud eller computer.
 
 **ABSOLUT REGEL: OPRINDELIGE FILER ER SKRIVEBESKYTTEDE.**
@@ -27,7 +31,7 @@ Du må aldrig slette, redigere, flytte, omdøbe, konvertere oven i, erstatte ell
 
 ### C. Afklar kun det nødvendige
 
-Spørg kun om oplysninger, der er nødvendige for at finde den rette læreplan og mine filer, og brug oplysninger, jeg allerede har givet. Det kan være: **fag, niveau, toårigt hf eller hf-enkeltfag, eksamenstermin**, samt hvilken mappe eller hvilke filer du skal arbejde med. Hvis der er flere mulige læreplaner, og du ikke kan vælge sikkert, så markér det som uafklaret og spørg kort.
+Spørg kun om oplysninger, der er nødvendige for at finde den rette læreplan og mine filer, og brug oplysninger, jeg allerede har givet. Hvis mappe og placering allerede er angivet, skal du ikke bede om dem igen. Det kan være: **fag, niveau, toårigt hf eller hf-enkeltfag, eksamenstermin**, samt hvilken mappe eller hvilke filer du skal arbejde med. Hvis der er flere mulige læreplaner, og du ikke kan vælge sikkert, så markér det som uafklaret og spørg kort.
 
 ### D. Udfør en verificerbar filgennemgang
 
@@ -98,4 +102,4 @@ Begynd med at kontrollere, hvilke af de nødvendige kilder og elevfiler du fakti
 
 ---
 
-**Projektversion:** 0.1 · 2026-11-16. Se også [PDF-specifikation](templates/PDF_OUTPUT_SPEC.md) og [privacy og copyright](PRIVACY_AND_COPYRIGHT.md).
+**Projektversion:** 0.3 · 2026-11-16. Se også [PDF-specifikation](templates/PDF_OUTPUT_SPEC.md) og [privacy og copyright](PRIVACY_AND_COPYRIGHT.md).
