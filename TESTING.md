@@ -28,10 +28,25 @@ Kontrollér:
 - [ ] Systemet siger `ikke fundet i tilgængelige filer` frem for `ikke lært`.
 - [ ] Læreplanens **uddannelsestype og årgang** er verificeret.
 
+## Test 2b — Billeder, lyd og video
+
+Brug et **syntetisk** datasæt, der indeholder en billedfil med relevant naturfagsdiagram, en PDF med indlejret figur, en kort lydoptagelse og en kort video samt en fil, der ikke kan afspilles.
+
+- [ ] Billeder og figurer undersøges, hvor de tilgængelige værktøjer gør det muligt, og kan findes via **søgbare fagord** i indeks-PDF'en.
+- [ ] Der findes konkret **originalfilnavn**, sti og bekræftet side/figur/slide for et billede.
+- [ ] Video-/lydresuméer forklarer de **vigtige faglige pointer**, uden fuld ordret transskription som standard.
+- [ ] Tidsstempler findes kun, hvis de faktisk er kontrolleret.
+- [ ] Utilgængelige medier markeres ærligt som **ikke analyseret**, uden opdigtede resuméer.
+- [ ] Det er tydeligt, at en video-/lydfil og PDF-resumé ikke automatisk er tilladte hjælpemidler ved eksamen.
+
 ## Test 3 — PDF-pakken
 
 - [ ] PDF'er genereres som **reelle PDF-filer** og ikke kun tekst med endelsen `.pdf`.
 - [ ] Hver PDF åbner uden login og uden netforbindelse.
+- [ ] Én ny, tydeligt navngivet `00_FIND_ALT_HER_<FAG>_...` PDF **pr. fag** er den primære indgang (øverst i fagmappen, når dette kan lade sig gøre).
+- [ ] De øvrige PDF'er ligger i en ny `AI-Generated/<kørsel>/`-undermappe eller leveres separat til download, ikke løst blandt originale dokumenter.
+- [ ] Generering sker i rækkefølgen **inventar/analyse → virtuel organisering → supplerende PDF'er → samlet søge-PDF sidst**.
+- [ ] Det sidste indeks indeholder **både originaler, billeder, medier og faktisk genererede PDF'er**.
 - [ ] `Ctrl+F` finder relevante emner i indholdet, ikke kun i titel.
 - [ ] Oversigtens originalfilnavne og sidetal stemmer med input.
 - [ ] PDF'er kan læses uafhængigt af cloudlinks; eventuel manglende originalfil er tydeligt nævnt.
@@ -50,7 +65,7 @@ Kontrollér:
 
 - [ ] Ingen originale filer overskrevet, redigeret, slettet, omdøbt eller flyttet.
 - [ ] Output ligger i ny separat mappe eller leveres i samtalen til download.
-- [ ] En senere opdatering får nyt versions-/tidsstempel og ændrer ikke tidligere filer.
+- [ ] En senere opdatering får nyt versions-/tidsstempel og ændrer ikke tidligere filer; hvis flere indeks eksisterer, fremgår det, hvilket der er nyest.
 - [ ] Utilgængelige kilder kan **ikke** maskeres som fuldt analyseret.
 
 ## Testrapport
