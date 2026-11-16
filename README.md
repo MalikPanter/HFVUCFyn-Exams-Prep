@@ -38,8 +38,22 @@ Undersøg de officielle eksamenskrav for hvert fag og niveau særskilt, især fa
 
 Skriv PDF'erne på fagets undervisningssprog. Brug korte, klare forklaringer, forklar svære fagord og vis konkrete eksempler. Behold de vigtige faglige detaljer.
 
+**Når alt er færdigt, skal du give mig en tydelig slutrapport her i chatten:** Hvad du gennemgik og organiserede, præcist hvor mange filer du faktisk analyserede, hvilke emner/medier og mulige mangler du fandt, alle PDF'er du oprettede med links/placering, hvad du ikke kunne læse, hvad der blev oprettet (ingen originaler må ændres), og hvad jeg skal downloade eller kontrollere. Skriv det kort, nemt og overskueligt. Hvis noget ikke blev færdigt, så sig det ærligt.
+
 Start med at finde ud af, hvilke filer du faktisk har adgang til, og spørg kun om nødvendige oplysninger som fag og niveau.
 ```
+
+## ✅ Når ChatGPT er færdig
+
+Du får **en samlet slutrapport direkte i chatten**. Den skal vise:
+
+- **Færdig eller delvist færdig?** Og hvilken `00_FIND_ALT_HER`-PDF du skal åbne først.
+- **Hvad blev gennemgået?** Antal læste og ulæste filer (også billeder, lyd og video).
+- **Hvad blev lavet?** Alle nye PDF'er med tydelige links eller placeringer.
+- **Hvad mangler?** Filer, som ikke kunne læses, og usikre eksamenskrav.
+- **Hvad gør du nu?** Download til offline brug, søg med `Ctrl+F`, kontrollér eksamensregler.
+
+Alle detaljer om hver enkelt fil findes i **Filoversigt-PDF'en**. Du slipper for en kæmpe liste i chatten.
 
 ## 🔎 Først og fremmest: DIN store søge-PDF
 
@@ -105,7 +119,7 @@ ChatGPT kan ikke nødvendigvis åbne alle filer eller lagertjenester. Det skal f
 - [Ofte stillede spørgsmål](FAQ.md)
 - [Privatliv og ophavsret](PRIVACY_AND_COPYRIGHT.md)
 
-**Status: V0.5 – hovedindeks pr. fag, mediestøtte og analyse-før-generering er tilføjet; workflowet mangler stadig bred praktisk test.** Dette er et uafhængigt elevprojekt og ikke en officiel HF & VUC FYN-tjeneste.
+**Status: V0.6 – tydelig obligatorisk slutrapport efter hver kørsel, inkl. opdateringer; workflowet mangler stadig bred praktisk test.** Dette er et uafhængigt elevprojekt og ikke en officiel HF & VUC FYN-tjeneste.
 
 ---
 
@@ -128,5 +142,5 @@ Find nye emner fra dokumenter, billeder, lyd og video (hvis du faktisk kan genne
 
 Lav kun NYE, søgbare, offline PDF-filer: det primære indeks i fagmappen som ny fil og de andre i ny `AI-Generated`-undermappe, når lagringen understøtter det; ellers til download her i chatten. Du må ALDRIG redigere, flytte, slette, omdøbe eller overskrive mine originale filer eller mine tidligere PDF'er.
 
-Fortæl mig kort, hvilke filer du har læst, hvad der er kommet til, og hvilke nye PDF'er jeg skal downloade.
+**Afslut altid med en komplet, letlæselig slutrapport i chatten:** Hvad er nyt siden sidst, hvilke filer er fundet/læst/delvist læst/ikke læst, hvad er organiseret og lavet, præcis hvilke nye PDF'er er oprettet og hvor, hvad kunne du ikke gøre, og hvilke filer skal jeg downloade? Oplys tydeligt, hvis du ikke kan sammenligne med den tidligere version. Ingen ændringer i originale eller tidligere genererede filer.
 ```
