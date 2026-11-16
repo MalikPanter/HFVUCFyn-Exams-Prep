@@ -11,12 +11,14 @@ Her samles **offentligt delbare** faglige indgange: kontrollerede kilder, vejled
 3. Kontrollér læreplansår og den konkrete eksamenstermin.
 4. Brug kun kildeverificerede krav til dækningstjek.
 
+**[Se hele fagkataloget](FAGKATALOG.md)** for obligatoriske fag, hf-enkeltfag, fagpakker og valgfag. Et fag skal kunne behandles via officielle kilder, selv hvis det endnu ikke har sin egen lokale mappe. Læs også [bedømmelsesmetoden](../exam-guidelines/BEDOEMMELSE_OG_FAGLIGE_KRAV.md).
+
 ## Aktuelle fagmapper
 
 - [Biologi C](biologi-c/README.md) — *pilot, kræver elevens forløbstype*.
 - [Historie B](historie-b/README.md) — *pilot, kræver elevens forløbstype*.
 - [Matematik C](matematik-c/README.md) — *pilot, kræver elevens forløbstype*.
 
-Flere fag tilføjes efterhånden. At et fag ikke er med her, betyder **ikke**, at det ikke understøttes af systemets generelle indeksering.
+Flere verificerede fagprofiler tilføjes efterhånden. At et fag ikke er med her, betyder **ikke**, at det ikke understøttes af systemets generelle indeksering.
 
 Fagskabelon: [SUBJECT_TEMPLATE.md](../templates/SUBJECT_TEMPLATE.md).
