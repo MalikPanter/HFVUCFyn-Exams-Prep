@@ -68,6 +68,8 @@ Den viser **hvilket emne → hvilken fil → hvilken side, figur, slide eller vi
 
 **Hvis ChatGPT ikke kan skrive til dit lager**, får du i stedet filerne til download i chatten og kan selv lægge hovedindekset i fagmappen. Alle filer skal virke offline.
 
+**Kvalitetstjek:** Før pakken kaldes færdig, skal ChatGPT tælle **alle** originalfiler, også selvstændige billeder, og sikre at samtlige filnavne findes i filoversigten. Materiale fra et andet fag må ikke forveksles med pensum i dit fag. Hvis noget mangler, skal ChatGPT oplyse det.
+
 ## 📚 Hvad får du ellers?
 
 | PDF | Hvad kan du bruge den til? |
@@ -119,7 +121,7 @@ ChatGPT kan ikke nødvendigvis åbne alle filer eller lagertjenester. Det skal f
 - [Ofte stillede spørgsmål](FAQ.md)
 - [Privatliv og ophavsret](PRIVACY_AND_COPYRIGHT.md)
 
-**Status: V0.6 – tydelig obligatorisk slutrapport efter hver kørsel, inkl. opdateringer; workflowet mangler stadig bred praktisk test.** Dette er et uafhængigt elevprojekt og ikke en officiel HF & VUC FYN-tjeneste.
+**Status: V0.7 – første store pilottest har verificeret PDF-produktion og versionsmapper, men afsløret fejl i totaloptælling af selvstændige billedfiler og fagligt uvedkommende søgeresultater. Der er nu tilføjet obligatorisk kildeafstemning og faglig afgrænsning. En ny test er nødvendig.** Dette er et uafhængigt elevprojekt og ikke en officiel HF & VUC FYN-tjeneste.
 
 ---
 
