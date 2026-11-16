@@ -38,6 +38,14 @@ Kontrollér:
 - [ ] Tydelig adskillelse af faktiske kilder og AI-genereret supplerende indhold.
 - [ ] Skolens specifikke eksamensregler indgår kun som verificerede oplysninger.
 
+## Test 3b — Sprog og enkel formidling
+
+- [ ] Hver PDF er skrevet på **fagets faktiske undervisningssprog**, ikke ukritisk på dansk.
+- [ ] Svære fagord forklares korrekt første gang, de bruges.
+- [ ] Forklaringer er korte, overskuelige og indeholder **hvorfor/hvordan** og konkrete eksempler.
+- [ ] Eleven kan forstå en kompleks forklaring uden at kende emnet i forvejen.
+- [ ] Det faglige indhold er ikke blevet så forenklet, at det er forkert eller misvisende.
+
 ## Test 4 — Beskyttelse og opdatering
 
 - [ ] Ingen originale filer overskrevet, redigeret, slettet, omdøbt eller flyttet.
