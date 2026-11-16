@@ -65,6 +65,13 @@ Rapporten skal tydeligt oplyse, om resultatet dækker en **udvalgt mappe** eller
 - Separat afsnit: `Skal bekræftes med skolen`, hvis noget er uklart.
 - **Ingen** generalisering om, at PDF'er altid må anvendes under prøven.
 
+### `06_OFFLINE_STUDIEKOMPENDIUM_ÅÅÅÅ-MM-DD.pdf`
+
+- Ét selvstændigt søgbart hæfte med korte, selvstændigt formulerede forklaringer af de emner, som reelt kunne udledes af elevens dokumenter og verificerede læreplanskrav.
+- Skal fungere som **offline repetition uden adgang til originalfilerne**. Medtag nødvendige forklaringer, definitioner, regneeksempler og tydeligt mærkede supplerende noter.
+- Skal tydeligt vise dokumenteret/ikke dokumenteret indhold og må ikke foregive at være en komplet gengivelse af enhver originalfil.
+- Genudgiv ikke hele beskyttede lærebøger, beskyttede billeder eller længere beskyttede tekster. Hvis eleven lovligt selv ejer rettigheder til egne noter, kan vedkommende særskilt bede om en ny PDF-eksportkopi; originalen må stadig ikke ændres.
+
 ## Formatering
 
 - A4, fornuftige margener, tydelige overskrifter, læselig størrelse og sidetal.
