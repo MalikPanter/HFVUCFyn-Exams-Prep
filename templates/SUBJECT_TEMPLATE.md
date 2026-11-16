@@ -8,6 +8,8 @@
 - Niveau: [A/B/C]
 - Uddannelsestype: [toårigt hf / hf-enkeltfag]
 - Relevant eksamenstermin: [indsæt / ikke afklaret]
+- Faggruppe, valgfag eller selvstændig eksamen: [afklar]
+- Gældende for elevens prøve? [ja/nej/ukendt, og dokumentation]
 - Gældende læreplansår: [indsæt / ikke verificeret]
 - Sidst kontrolleret: [dato]
 
@@ -15,8 +17,18 @@
 
 - Læreplan: [direkte officielt link]
 - Vejledning: [direkte officielt link]
-- Eksamensregler: [direkte officielt link]
+- Eksamensregler og 2026-hjælpemiddeloversigt: [direkte officielt link]
+- Kilde til bedømmelseskriterier og præcist punkt: [link, punktnummer]
+- Vejledning til skriftlige censorer, hvis den er offentligt tilgængelig: [link/ikke tilgængelig]
 - Faglige ressourcer, der må deles: [links]
+
+## Faglige mål, prøver og bedømmelse
+
+| Delprøve | Prøveform (officiel) | Faglige mål (punkt 2.1 eller tilsvarende) | Bedømmelseskriterier (punkt 4.3 eller tilsvarende) | Status/kilde |
+|---|---|---|---|---|
+| [mundtlig/skriftlig/praktisk/intern/ekstern] | [kildebelagt] | [mål, ikke bare emnenavne] | [hvad bedømmes, formuleret i let dansk] | [verificeret/åbent] |
+
+**Forvaltningsregel:** Indfør ikke censor-fokuspunkter som fakta, hvis de ikke kan dokumenteres i læreplanen eller officielle vejledninger. Skeln vejledende råd og kildeverificerede kriterier. Der kan være forskellige regler selv for samme fag på toårigt HF og hf-enkeltfag.
 
 ## Fagligt overblik
 
