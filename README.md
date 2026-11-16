@@ -21,6 +21,7 @@ Dette er **ikke** en app, en uploadportal eller et sted, hvor elever skal dele p
 
 - Læser **kun** filer, du udtrykkeligt har gjort tilgængelige.
 - Opretter et søgbart emneindeks med kildefil, side/afsnit, alternative søgeord og eventuelle usikkerheder.
+- Opretter et selvstændigt **offline-studiekompendium i PDF**, så vigtig repetition kan foregå uden adgang til cloud eller de oprindelige filer.
 - Opretter en filoversigt, også med fejl og filer, der ikke kunne læses.
 - Sammenholder, hvor det er muligt, dit materiale med **den relevante** officielle læreplan og prøvevejledning.
 - Angiver **»ikke fundet i de tilgængelige filer«**, ikke »du har ikke lært det«, når materiale mangler.
