@@ -29,7 +29,7 @@ Hvis du ikke kan læse masterprompten, så sig det med det samme og bed mig inds
 
 Find kun den mappe eller de filer, jeg har angivet ovenfor, inklusive relevante undermapper. Hvis navnet eller placeringen er uklar, så spørg mig, inden du læser andre mapper. Jeg giver dig adgang via den lagringsmetode, jeg selv vælger. Du må ALDRIG redigere, flytte, omdøbe, slette eller overskrive mine originale filer.
 
-Lav nye, søgbare PDF'er med et emneindeks, filoversigt, overblik over mulige mangler og letforståelige repetitionsnoter. Lav også et selvstændigt studiekompendium, der kan bruges uden internet og uden adgang til originalfilerne.
+Undersøg de officielle eksamenskrav for hvert fag og niveau særskilt, især faglige mål, prøveform og bedømmelseskriterier, så du ikke bruger regler fra et andet fag eller en anden uddannelsestype. Forklar tydeligt, hvad jeg faktisk bliver bedømt på, og markér alt, du ikke kan verificere. Lav nye, søgbare PDF'er med et emneindeks, filoversigt, overblik over mulige mangler og letforståelige repetitionsnoter. Lav også et selvstændigt studiekompendium, der kan bruges uden internet og uden adgang til originalfilerne.
 
 Skriv PDF'erne på fagets undervisningssprog. Brug korte, klare forklaringer, forklar svære fagord og vis konkrete eksempler. Behold de vigtige faglige detaljer.
 
@@ -45,7 +45,7 @@ Start med at finde ud af, hvilke filer du faktisk har adgang til, og spørg kun 
 | **Filoversigt** | Se, hvad der ligger i dine dokumenter |
 | **Pensumtjek** | Se, hvilke emner der er dækket, og hvad der måske mangler |
 | **Repetitionsnoter** | Korte, nemme forklaringer med eksempler |
-| **Eksamensoversigt** | Verificerede oplysninger om din prøve |
+| **Eksamensoversigt** | Din prøveform, tilladte hjælpemidler og **hvad du bliver bedømt på** |
 | **Offline-studiekompendium** | Læs de vigtigste emner uden internet eller de originale filer |
 
 **Alt leveres som søgbare PDF'er.** Hvis ChatGPT kan gemme i dit valgte lager, opretter det en **ny** mappe til PDF'erne. Ellers får du PDF'erne til download i chatten.
@@ -81,12 +81,14 @@ ChatGPT kan ikke nødvendigvis åbne alle filer eller lagertjenester. Det skal f
 ## ℹ️ Flere oplysninger
 
 - [Fuld masterprompt](MASTER_PROMPT.md)
+- [Alle HF-fag og valgfag](subjects/FAGKATALOG.md)
+- [Hvordan bedømmes de forskellige fag?](exam-guidelines/BEDOEMMELSE_OG_FAGLIGE_KRAV.md)
 - [Fag og niveauer](subjects/README.md)
 - [Officielle eksamensregler og kilder](exam-guidelines/README.md)
 - [Ofte stillede spørgsmål](FAQ.md)
 - [Privatliv og ophavsret](PRIVACY_AND_COPYRIGHT.md)
 
-**Status: V0.3 – klar til elevtest, endnu ikke fuldt afprøvet på tværs af lagerløsninger.** Dette er et uafhængigt elevprojekt og ikke en officiel HF & VUC FYN-tjeneste.
+**Status: V0.4 – udvidet fagkatalog og kildebaserede bedømmelsesregler; flere fagspecifikke profiler mangler fortsat kontrol.** Dette er et uafhængigt elevprojekt og ikke en officiel HF & VUC FYN-tjeneste.
 
 ---
 
@@ -105,7 +107,7 @@ Jeg har fået mere undervisningsmateriale.
 
 Gennemgå kun den angivne mappe og dens undermapper samt de filer, jeg udtrykkeligt deler. Hvis du ikke kan finde mappen, så spørg i stedet for at gætte. Sammenlign med sidste dokumenterede filoversigt, hvis du faktisk har adgang til den. Hvis du ikke kan se den tidligere oversigt, så lav en ny gennemgang og sig det tydeligt.
 
-Find nye emner og opdater alle relevante oversigter, forklaringer og studie-PDF'er. Skriv kort og nemt på fagets undervisningssprog, men behold fagligt korrekte begreber og forklar dem.
+Find nye emner og opdater alle relevante oversigter, forklaringer og studie-PDF'er. Kontroller på ny de gældende fagspecifikke prøve- og bedømmelseskriterier for de fag, der er omfattet; gæt aldrig på censorernes fokus. Skriv kort og nemt på fagets undervisningssprog, men behold fagligt korrekte begreber og forklar dem.
 
 Lav kun NYE, søgbare, offline PDF-filer i en separat mappe eller til download her i chatten. Du må ALDRIG redigere, flytte, slette, omdøbe eller overskrive mine originale filer eller mine tidligere PDF'er.
 
