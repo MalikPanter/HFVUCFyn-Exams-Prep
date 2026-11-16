@@ -8,6 +8,11 @@
 | Gældende hjælpemiddelregler | [STUK: Hjælpemiddeloversigt, 23. februar 2026 (PDF)](https://uvm.dk/media/iuppxvjr/260223-hjaelpemiddeloversigt-til-gymnasiale-proever.pdf) | Overordnede regler, undtagelser og fagspecifikke hjælpemidler |
 | Fag på toårigt hf | [Læreplaner til hf](https://uvm.dk/uddannelse-til-unge/gymnasiale-uddannelser/fag-og-laereplaner/hf-laereplaner/) | Vælg korrekt fag, niveau og læreplansår |
 | Fag på hf-enkeltfag | [Læreplaner til hf-enkeltfag](https://uvm.dk/uddannelse-til-unge/gymnasiale-uddannelser/fag-og-laereplaner/hf-e-laereplaner/) | Vælg korrekt fag, niveau og læreplansår |
+| Valgfag og særlige fag | [Læreplaner til valgfag](https://uvm.dk/uddannelse-til-unge/gymnasiale-uddannelser/fag-og-laereplaner/valgfag-laereplaner/) | Find fagspecifikke niveauer, versioner og vejledninger |
+| Bedømmelseskrav | [Censur og bedømmelse](https://uvm.dk/uddannelse-til-unge/gymnasiale-uddannelser/proever-og-eksamen/censor-og-bedoemmelse-af-proever/) | Censorrollen, information om faglige vurderinger |
+| Hjælpemidler — opdateringer | [Ministeriets aktuelle hjælpemiddelside](https://uvm.dk/uddannelse-til-unge/gymnasiale-uddannelser/proever-og-eksamen/afholdelse-af-proever/hjaelpemidler-til-gymnasiale-proever/) | Kontrollér den senest gældende PDF for prøve og termin |
+
+Se også [bedømmelsesmetoden](BEDOEMMELSE_OG_FAGLIGE_KRAV.md), [fagkataloget](../subjects/FAGKATALOG.md) og [research-status](RESEARCH_STATUS_2026-11-16.md).
 
 ## Valg af læreplan
 
