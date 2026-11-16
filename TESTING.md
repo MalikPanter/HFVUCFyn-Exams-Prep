@@ -61,6 +61,18 @@ Brug et **syntetisk** datasæt, der indeholder en billedfil med relevant naturfa
 - [ ] Eleven kan forstå en kompleks forklaring uden at kende emnet i forvejen.
 - [ ] Det faglige indhold er ikke blevet så forenklet, at det er forkert eller misvisende.
 
+## Test 3c — Slutrapport til eleven (obligatorisk)
+
+- [ ] ChatGPT giver en **samlet slutrapport til allersidst**, også når processen kun kunne færdiggøres delvist.
+- [ ] Første linje angiver **færdig/delvist færdig/ikke gennemført**, og viser tydeligt det faktiske hovedindeks.
+- [ ] Nøjagtige og verificerede antal for **fundet, fuldt læst, delvist læst og ikke læst**, også for billeder/lyd/video. Ukendte tal mærkes `ikke verificeret`.
+- [ ] Alle **faktisk oprettede** PDF'er har fuldt filnavn, placering/downloadlink og kort formål.
+- [ ] Mulige mangler, utilgængelige kilder og usikre læreplaner/bedømmelseskriterier står tydeligt.
+- [ ] Det oplyses, at originale filer ikke er ændret, og hvilke **nye** mapper/filer der faktisk er oprettet.
+- [ ] Eleven får korte trin til `Ctrl+F`, download og offline brug samt påmindelse om eksamensregler.
+- [ ] **Ingen** opgaver eller outputs påstås færdige uden verificeret resultat; en længere fil-for-fil-liste ligger i PDF, ikke i chatten.
+- [ ] Ved opdatering: `Hvad er nyt siden sidst?`, kun dokumenterede ændringer, og korrekt håndtering af manglende sammenligningsgrundlag.
+
 ## Test 4 — Beskyttelse og opdatering
 
 - [ ] Ingen originale filer overskrevet, redigeret, slettet, omdøbt eller flyttet.
