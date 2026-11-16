@@ -47,6 +47,7 @@ Rapporten skal tydeligt oplyse, om resultatet dækker en **udvalgt mappe** eller
 
 ### `03_LAEREPLANSDAEKNING_ÅÅÅÅ-MM-DD.pdf`
 
+- Medtag et selvstændigt **kompetence- og metodeindeks**: faglige mål, konkrete måder at demonstrere dem på og dokumenteret elevmateriale. Et simpelt emneord er ikke nok til at konkludere, at kompetencen er dækket.
 - Angiv **præcis** officiel kilde, uddannelsestype, årgang, dato for tjek og evt. uafklaret overgang.
 - Registrér hvert relevant krav/emne med kildefiler og status: `dokumenteret`, `delvist dokumenteret`, `ikke fundet i tilgængelige filer` eller `ikke vurderet`.
 - `Ikke fundet` betyder aldrig `ikke undervist`.
@@ -61,12 +62,17 @@ Rapporten skal tydeligt oplyse, om resultatet dækker en **udvalgt mappe** eller
 
 ### `05_EKSAMENSOVERSIGT_ÅÅÅÅ-MM-DD.pdf`
 
+- **For hver konkret prøve**: Skriv hvilken fag-/niveau-/uddannelses- og læreplansårgang der er undersøgt, og om dens gyldighed er verificeret for elevens termin.
+- **Hvad bliver du bedømt på?** Forklar punkt 2.1 og 4.3 i den gældende læreplan i elevsprog og henvis til officielt dokument og præcist punkt. Skeln mellem bedømmelseskriterier og generelle tips.
+- Forklar **hvad eleven kan gøre i praksis** for at demonstrere kriterierne, men mærk AI-eksempler som vejledende, ikke som autentiske prøveopgaver.
+- Særligt ved faggrupper skal interne, eksterne og enkeltfaglige prøver holdes adskilt; ved sprogfag skal mundtlige og skriftlige kriterier holdes adskilt; ved praktiske fag medtages begge præstationsformer.
 - Aktuelt verificerede prøveformer, regler, officielle referencer og gyldighed.
 - Separat afsnit: `Skal bekræftes med skolen`, hvis noget er uklart.
 - **Ingen** generalisering om, at PDF'er altid må anvendes under prøven.
 
 ### `06_OFFLINE_STUDIEKOMPENDIUM_ÅÅÅÅ-MM-DD.pdf`
 
+- **Vægt fagets dokumenterede kompetencer og bedømmelseskriterier**, ikke bare en generisk emneliste; include praktiske metoder, tekstanalyse, kilder, regnebegrundelser eller forsøgsdata efter faget.
 - Ét selvstændigt søgbart hæfte med korte, selvstændigt formulerede forklaringer af de emner, som reelt kunne udledes af elevens dokumenter og verificerede læreplanskrav.
 - Skal fungere som **offline repetition uden adgang til originalfilerne**. Medtag nødvendige forklaringer, definitioner, regneeksempler og tydeligt mærkede supplerende noter.
 - Skal tydeligt vise dokumenteret/ikke dokumenteret indhold og må ikke foregive at være en komplet gengivelse af enhver originalfil.
