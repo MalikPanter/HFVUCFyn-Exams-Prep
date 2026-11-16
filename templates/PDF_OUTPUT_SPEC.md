@@ -47,6 +47,7 @@ Rapporten skal tydeligt oplyse, om resultatet dækker en **udvalgt mappe** eller
 
 ### `03_LAEREPLANSDAEKNING_ÅÅÅÅ-MM-DD.pdf`
 
+- Hvis der ligger en faktisk **undervisningsbeskrivelse** i det valgte materiale, så tilføj en sektion med holdets gennemgåede forløb og match med elevens dokumenter. Hvis den ikke kunne findes, sig det uden at forveksle fravær af noter med fravær af undervisning.
 - Medtag et selvstændigt **kompetence- og metodeindeks**: faglige mål, konkrete måder at demonstrere dem på og dokumenteret elevmateriale. Et simpelt emneord er ikke nok til at konkludere, at kompetencen er dækket.
 - Angiv **præcis** officiel kilde, uddannelsestype, årgang, dato for tjek og evt. uafklaret overgang.
 - Registrér hvert relevant krav/emne med kildefiler og status: `dokumenteret`, `delvist dokumenteret`, `ikke fundet i tilgængelige filer` eller `ikke vurderet`.
