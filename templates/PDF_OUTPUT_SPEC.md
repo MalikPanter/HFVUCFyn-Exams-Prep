@@ -1,6 +1,6 @@
 # Kravspecifikation — elevens PDF-pakke
 
-**Dette er et internt designgrundlag. Alle slutprodukter til eleven skal være PDF-filer.**
+**Dette er et internt designgrundlag. Alle slutprodukter til eleven skal være PDF-filer.** Det **store søgeindeks per fag er det primære produkt**. Læs også [MULTIMEDIA_AND_INDEX_WORKFLOW.md](MULTIMEDIA_AND_INDEX_WORKFLOW.md), som fastlægger rækkefølge, placering og håndtering af billeder, lyd og video.
 
 ## Grundprincipper
 
@@ -9,12 +9,34 @@
 - Ét dokument skal kunne læses selvstændigt uden netforbindelse. Kilde-links er supplerende.
 - Materialer fra elevens oprindelige filer citeres ved **præcis original filbetegnelse** og dokumenteret side/afsnit, når det kan udledes.
 - En henvisning til en fil betyder ikke, at filen medfølger PDF-pakken. Angiv altid, hvis den originale fil også skal downloades separat for at kunne åbnes offline.
-- Opret nye outputfiler i en separat mappe; **rør aldrig originalerne**.
+- Organisér **referencer virtuelt**, ikke elevens originale mapper og filer. Opret nye supplerende outputfiler i en separat mappe; **rør aldrig originalerne**. Som eneste undtagelse fra placeringen må det nye primære indeks placeres direkte i elevens eksisterende fagmappe, når skriveadgang og brugerens valgte område tillader det.
 - Brug tidsstempel og versionsoplysninger i navn/metadata. Overskriv ikke tidligere output.
 
 ## Minimumsleverancer
 
-### `00_START_HER_ÅÅÅÅ-MM-DD.pdf`
+### `00_FIND_ALT_HER_<FAG>_<ÅÅÅÅ-MM-DD-VERSION>.pdf` — FÆLLES SØGEPDF
+
+**Dette er den vigtigste PDF og oprettes TIL SIDST, per fag**, når de andre nye PDF'er allerede er genereret og deres faktiske filnavne/sidetal er kendt. Den må gerne være omfattende, men skal være let at navigere.
+
+- **Placering:** Direkte øverst i elevens eksisterende fagmappe som en helt ny fil (hvis oprettelse i den valgte lagring er mulig), **ikke blandet med de supplerende PDF'er**. Hvis der ikke er fagmapper, brug en ny fagopdelt outputmappe uden at ændre originalerne. Hvis skrivning ikke er mulig, levér index-PDF'en **særskilt i samtalen** til manuel placering.
+- **Omfang:** Alle faktisk gennemgåede originale dokumenter, fotos/billeder, indlejrede figurer, præsentationer, tilgængelige audio/video + alle nye AI-genererede PDF'er. Angiv utilgængelige/ikke-gennemgåede filer som begrænsninger; intet må gemmes bag en falsk påstand om fuldstændighed.
+- **Indhold:** En kort startside med `SÅDAN SØGER DU`, indholdsfortegnelse, **alfabetisk emneindeks**, tematisk emneoversigt, oversigt over kildetyper og henvisninger til AI-PDF'er.
+- **Hver reference:** Emne og synonymer, **kort beskrivelse af indholdet**, præcis **oprindelig filnavn**, sti/undermappe, kildeformat og verificeret **side/slide/figur/billede/afsnit/tidsstempel**. For AI-genereret PDF: faktisk filnavn og verificeret side.
+- **Billedsøgning:** Når et billede/diagram faktisk er visuelt gennemgået, omsæt det til en kort, søgbar tekstlig beskrivelse; gerne en kort billedbeskrivelse og filnavn, eventuelt lovligt genbrugbart miniaturebillede, hvis teknisk muligt. Et fotografi/figur skal kunne findes ved det faglige emne, **selv om billedfilen ikke indeholder tekst**.
+- **Video og audio:** Registrér filnavn, kort resumé og faglige hovedpointer **uden fuld transskription som standard**. Inkludér verificerede tidsstempler, når muligt.
+- **Status:** Verificeret, delvist analyseret, ikke læst/ikke afspillet. **Opfind aldrig sidetal, tidsstempler, figurer, resuméer eller kildeindhold.**
+- **Offline:** Alt det ovenstående ligger som rigtig, søgbar tekst i PDF'en. Links er kun ekstra hjælp. Hvis et originaldokument ikke medfølger offline, fortæl det, selvom indeks-PDF'en peger på det.
+
+**Illustrativt eksempel — ingen faktisk fil verificeret:**
+
+| Søgeord | Find det her | Originalfil / AI-fil | Præcis placering |
+|---|---|---|---|
+| Drivhuseffekt; drivhusgasser | Begrebsforklaring og graf | `Noter.pdf` | s. 4, figur 1 |
+| Drivhuseffekt | Foto af håndtegnet forklaring | `IMG_0421.jpg` | hele billedet |
+| Drivhuseffekt | Videogennemgang (kun hvis analyseret) | `Klima.mp4` | tidspunkt ikke verificeret |
+| Drivhuseffekt | Selvstændig letforklaret repetition | `06_OFFLINE_STUDIEKOMPENDIUM_....pdf` | s. 12, hvis kontrolleret |
+
+### `01_START_HER_ÅÅÅÅ-MM-DD.pdf`
 
 - Fag, niveau, type (toårigt hf/hf-enkeltfag), dato og kildegrundlag.
 - Dækning af tilgængelige originalfiler: fundet/læst/delvist/ikke læst.
@@ -22,21 +44,7 @@
 - **Offline-vejledning**: hvilke filer der skal ligge lokalt, og test af søgning uden internet.
 - Disclaimer om at tilladte hjælpemidler varierer efter prøve.
 
-### `01_EMNEINDEKS_ÅÅÅÅ-MM-DD.pdf`
-
-To supplerende registre, begge som ægte, søgbar tekst:
-
-**Alfabetisk:** Emne, variationer og staveformer, konkret oprindelig kildefil, verificeret side/afsnit, kort forklaring.
-
-**Tematisk:** Overemne → underemne → steder i originalmaterialet.
-
-Eksempel (kun illustration):
-
-| Emne | Også søg efter | Original kilde | Placering | Status |
-|---|---|---|---|---|
-| Drivhuseffekt | drivhusgasser, CO₂, klima | `Naturfag_notater.pdf` | s. 3–5 | **EKSEMPEL — IKKE VERIFICERET** |
-
-**HUSK:** Skriv `Side ikke verificeret`, hvis ingen sikker reference findes. Opfind aldrig henvisninger.
+**Denne og de andre supplerende PDF'er ligger i en ny `AI-Generated/<kørsel>/`-undermappe.**
 
 ### `02_FILOVERSIGT_ÅÅÅÅ-MM-DD.pdf`
 
@@ -57,6 +65,7 @@ Rapporten skal tydeligt oplyse, om resultatet dækker en **udvalgt mappe** eller
 ### `04_REPETITIONSNOTER_ÅÅÅÅ-MM-DD.pdf`
 
 - Korte og fagligt præcise forklaringer med selvstændigt skrevne eksempler.
+- Medtag fagligt nyttige resuméer fra **faktisk analyserede** video- og lydoptagelser, og forklar indholdet på elevens niveau. Medtag ikke ordret transskription som standard. Brug tydelig kildehenvisning og status, hvis mediet kun er delvist gennemgået.
 - Marker `AI-genereret opsummering` og skeln fra verificerede originalkilder.
 - Hvis relevant: formler, definitioner, eksempler, almindelige misforståelser og henvisninger.
 - Undgå at kopiere større ophavsretligt beskyttede passager.
@@ -97,7 +106,7 @@ Rapporten skal tydeligt oplyse, om resultatet dækker en **udvalgt mappe** eller
 ## Formatering
 
 - A4, fornuftige margener, tydelige overskrifter, læselig størrelse og sidetal.
-- Kopiérbar/søgbar tekst (ikke bare rasterbilleder). Brug OCR eller transskription kun hvis teknisk muligt og nøjagtigheden kan kontrolleres.
+- Kopiérbar/søgbar tekst (ikke bare rasterbilleder). Hvis et billede eller en scannet figur faktisk kan analyseres visuelt, så skriv **søgbare billedbeskrivelser**. Anvend evt. OCR til tekst i et billede med kvalitetskontrol. **Fuld lyd-/videotransskription er ikke standard**; skriv korte faglige resuméer og relevante hovedpointer, når mediet kan gennemgås.
 - Dansk og korrekte danske tegn. For fag med anden undervisningssprog: bevar relevante fagtermer.
 - Tydelige henvisninger og statusmarkeringer; farve alene må ikke bære betydningen.
 - Klikbare PDF-bogmærker eller indholdsfortegnelse, hvis værktøjet understøtter det.
@@ -105,6 +114,6 @@ Rapporten skal tydeligt oplyse, om resultatet dækker en **udvalgt mappe** eller
 
 ## Versionering uden at ændre originaler
 
-Forslag: `AI-Generated/2026-11-16-01/`, derefter `2026-11-16-02/`. Datoen i eksemplet er **ikke** et krav. Brug ny mappe eller unikke, nye filnavne ved hver kørsel.
+Forslag: `Historie/AI-Generated/2026-11-16-01/`, derefter `2026-11-16-02/`, til **supplerende** PDF'er, mens `Historie/00_FIND_ALT_HER_HISTORIE_2026-11-16-01.pdf` ligger synligt i fagmappen. Datoen er et eksempel. Brug nye mapper og unikke filnavne ved hver kørsel; aldrig overskrivning eller automatisk arkivering/flytning af ældre filer. Hvis der ligger flere tidligere indeksfiler, skal eleven kunne identificere den nyeste version.
 
 Hvis ChatGPT ikke har adgang til at gemme i brugerens foretrukne lagring, leveres PDF'erne som **downloadbare filer i samtalen**, uden at kræve en ny udbyder.
