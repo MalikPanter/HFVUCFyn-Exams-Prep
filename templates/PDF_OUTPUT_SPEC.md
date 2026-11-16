@@ -19,12 +19,12 @@
 **Dette er den vigtigste PDF og oprettes TIL SIDST, per fag**, når de andre nye PDF'er allerede er genereret og deres faktiske filnavne/sidetal er kendt. Den må gerne være omfattende, men skal være let at navigere.
 
 - **Placering:** Direkte øverst i elevens eksisterende fagmappe som en helt ny fil (hvis oprettelse i den valgte lagring er mulig), **ikke blandet med de supplerende PDF'er**. Hvis der ikke er fagmapper, brug en ny fagopdelt outputmappe uden at ændre originalerne. Hvis skrivning ikke er mulig, levér index-PDF'en **særskilt i samtalen** til manuel placering.
-- **Omfang:** Alle faktisk gennemgåede originale dokumenter, fotos/billeder, indlejrede figurer, præsentationer, tilgængelige audio/video + alle nye AI-genererede PDF'er. Angiv utilgængelige/ikke-gennemgåede filer som begrænsninger; intet må gemmes bag en falsk påstand om fuldstændighed.
+- **Omfang:** Alle faktisk gennemgåede originale dokumenter, **selvstændige JPG/JPEG/PNG/WEBP-billedfiler**, indlejrede figurer, præsentationer, tilgængelige audio/video + alle nye AI-genererede PDF'er. **Alle fundne originale filer skal med i filoversigten, uanset om indholdet kunne analyseres.** Angiv utilgængelige/ikke-gennemgåede filer som begrænsninger; intet må gemmes bag en falsk påstand om fuldstændighed.
 - **Indhold:** En kort startside med `SÅDAN SØGER DU`, indholdsfortegnelse, **alfabetisk emneindeks**, tematisk emneoversigt, oversigt over kildetyper og henvisninger til AI-PDF'er.
 - **Hver reference:** Emne og synonymer, **kort beskrivelse af indholdet**, præcis **oprindelig filnavn**, sti/undermappe, kildeformat og verificeret **side/slide/figur/billede/afsnit/tidsstempel**. For AI-genereret PDF: faktisk filnavn og verificeret side.
 - **Billedsøgning:** Når et billede/diagram faktisk er visuelt gennemgået, omsæt det til en kort, søgbar tekstlig beskrivelse; gerne en kort billedbeskrivelse og filnavn, eventuelt lovligt genbrugbart miniaturebillede, hvis teknisk muligt. Et fotografi/figur skal kunne findes ved det faglige emne, **selv om billedfilen ikke indeholder tekst**.
 - **Video og audio:** Registrér filnavn, kort resumé og faglige hovedpointer **uden fuld transskription som standard**. Inkludér verificerede tidsstempler, når muligt.
-- **Status:** Verificeret, delvist analyseret, ikke læst/ikke afspillet. **Opfind aldrig sidetal, tidsstempler, figurer, resuméer eller kildeindhold.**
+- **Status:** Verificeret, delvist analyseret, ikke læst/ikke afspillet. **Angiv antal pr. format og afstem med originalmappens fulde filoversigt**; udeladte filer medfører `delvist færdig`. Fremmede fagfiler må registreres i inventaret, men ikke fejlagtigt bruges som kilde til det valgte fags søgeindeks. Når AI-PDF'er indekseres, skal sider med faktisk forklarende indhold bruges, ikke kun emneord i indholdsfortegnelsen. **Opfind aldrig sidetal, tidsstempler, figurer, resuméer eller kildeindhold.**
 - **Offline:** Alt det ovenstående ligger som rigtig, søgbar tekst i PDF'en. Links er kun ekstra hjælp. Hvis et originaldokument ikke medfølger offline, fortæl det, selvom indeks-PDF'en peger på det.
 
 **Illustrativt eksempel — ingen faktisk fil verificeret:**
@@ -48,6 +48,8 @@
 **Denne og de andre supplerende PDF'er ligger i en ny `AI-Generated/<kørsel>/`-undermappe.**
 
 ### `02_FILOVERSIGT_ÅÅÅÅ-MM-DD.pdf`
+
+**Obligatorisk:** Medtag alle originalfiler fra den valgte mappe, også billedfiler og filer uden analyserbart indhold. Angiv præcise tal per filtype, afstem totalen med kildeinventaret og markér tværfaglige/off-topic-filer særskilt.
 
 | Oprindeligt filnavn | Placering (hvis kendt) | Format | Læst status | Centrale emner | Fejl/usikkerheder |
 |---|---|---|---|---|---|
@@ -109,7 +111,7 @@ Rapporten skal tydeligt oplyse, om resultatet dækker en **udvalgt mappe** eller
 - A4, fornuftige margener, tydelige overskrifter, læselig størrelse og sidetal.
 - Kopiérbar/søgbar tekst (ikke bare rasterbilleder). Hvis et billede eller en scannet figur faktisk kan analyseres visuelt, så skriv **søgbare billedbeskrivelser**. Anvend evt. OCR til tekst i et billede med kvalitetskontrol. **Fuld lyd-/videotransskription er ikke standard**; skriv korte faglige resuméer og relevante hovedpointer, når mediet kan gennemgås.
 - Dansk og korrekte danske tegn. For fag med anden undervisningssprog: bevar relevante fagtermer.
-- Tydelige henvisninger og statusmarkeringer; farve alene må ikke bære betydningen.
+- Tydelige henvisninger og statusmarkeringer; farve alene må ikke bære betydningen. Undgå meget tætte sider med kun små filnavne: brug læsbar skrift og tydelige emneoverskrifter, selv ved store indeks.
 - Klikbare PDF-bogmærker eller indholdsfortegnelse, hvis værktøjet understøtter det.
 - Tjek PDF'en ved at åbne den og søge efter mindst tre emner samt prøve at læse den uden netadgang.
 
