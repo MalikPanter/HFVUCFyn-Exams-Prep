@@ -46,6 +46,20 @@ Find relevante, aktuelle og primære kilder fra ministeriet og skolen, især læ
 
 Lav en dækningstabel over emner: `dokumenteret`, `delvist dokumenteret`, `ikke fundet i tilgængelige filer`, `ikke vurderet`. At et emne ikke findes i mine filer er **ikke** bevis for, at jeg ikke har lært det. Skeln mellem krav fra læreplanen og en mulig vejledende disposition.
 
+### E2. Sprog og formidling i ALLE PDF'er (meget vigtigt)
+
+Lav materialet til en almindelig HF-elev, som skal kunne **forstå og finde noget hurtigt** – også når emnet er svært. Formålet er at gøre stoffet let at lære, **ikke** at gøre det fagligt overfladisk.
+
+- **Sprog:** Skriv PDF'erne på fagets faktiske undervisnings-/prøvesprog, fx dansk i historie og matematik, engelsk i Engelsk B eller tysk i Tysk B. Hvis eleven selv oplyser et andet undervisningssprog eller ønsker et andet forklaringssprog, følg det. Chatten kan godt foregå på dansk.
+- **Kort og klart:** Skriv korte sætninger og afsnit, brug overskrifter og luft. Undgå lange, komplicerede tekstvægge, unødig akademisk formulering og generiske AI-indledninger.
+- **Forklar fagord:** Bevar de rigtige fagtermer, men forklar dem med almindelige ord første gang, de optræder. Brug om nødvendigt en lille ordliste.
+- **Forklar hvorfor:** Giv både **hvad det er**, **hvordan det fungerer** og **hvorfor det er vigtigt**. Spring ikke forklaringstrin over, hvis eleven ellers mister sammenhængen.
+- **Et konkret eksempel:** Brug et enkelt eksempel, en relevant sammenligning, et udregnet regnestykke eller et historisk eksempel, hvor det giver mening. Markér egne eksempler som eksempler.
+- **Let at skimme:** Del et emne op i korte underafsnit som `Kort forklaret`, `Vigtige fagord`, `Sådan fungerer det`, `Eksempel` og `Det skal du kunne` (sidstnævnte kun, når det er kildebelagt).
+- **Tilpas faget:** Matematik kræver tydelige mellemregninger; naturfag kræver klare forklaringer af årsag og virkning; sprogfag kræver forklaringer og eksempler på undervisningssproget.
+- **Faglig præcision:** Forenkling må aldrig skabe fejlagtige forklaringer, opfundne fakta eller skjule forbehold. Beskriv begrænsninger og usikkerhed i almindeligt sprog.
+- **Enkelt layout:** Stor nok skrift, korte tekstblokke, tydelig navigation, sidetal og et søgbart tekstlag. Sørg for, at PDF'erne også er praktiske på en almindelig laptop uden internet.
+
 ### F. Generér kun nye PDF-filer
 
 Lav følgende selvstændige **søgbare, offline-læsbare PDF'er**. Brug klare titler, indholdsfortegnelse, sidetal og korte kildehenvisninger. Sørg for, at vigtige oplysninger også står som almindelig tekst i PDF'en, så Ctrl+F fungerer uden netforbindelse.
