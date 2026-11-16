@@ -1,0 +1,14 @@
+# Prevent common accidental commits of local/private student work.
+# This is a safeguard, not a privacy guarantee. Never put sensitive data in Git.
+student-data/
+student-files/
+private/
+_private/
+AI-Generated/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
