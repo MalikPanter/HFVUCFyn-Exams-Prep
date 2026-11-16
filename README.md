@@ -1,6 +1,6 @@
 # 🎓 HFVUC Fyn Exams Prep
 
-**Dine noter → styr på pensum → nemme PDF'er til eksamen.**
+**Ét søgbart PDF-opslagsværk til hvert fag – dine egne noter, billeder, lyd, videoer og AI-forklaringer samlet i ét indeks.**
 
 Brug ChatGPT til at samle og forstå dine HF-noter. Du bestemmer selv, hvor dine filer ligger. **Ingen ekstra app. Ingen upload til vores GitHub.**
 
@@ -9,6 +9,7 @@ Brug ChatGPT til at samle og forstå dine HF-noter. Du bestemmer selv, hvor dine
 1. **Find din notemappe** – fx i Google Drive, OneDrive, Dropbox eller på din computer.
 2. **Skriv mappens navn og placering** i startprompten herunder. Fx `Historie` i `Google Drive → HF → 2 year → Historie`.
 3. **Kopiér prompten til ChatGPT**, og giv adgang til mappen eller de valgte filer.
+4. **Åbn `00_FIND_ALT_HER_<FAG>_....pdf`** i din fagmappe (eller download den fra chatten) og brug `Ctrl+F` til at finde det, du mangler.
 
 💡 **Tip:** Det er nemmest, hvis alle dine noter ligger i **én samlet hovedmappe** (gerne med undermapper for hvert fag). Det er kun en anbefaling – **du behøver ikke flytte, sortere eller omdøbe noget**.
 
@@ -31,32 +32,44 @@ Hvis du ikke kan læse masterprompten, så sig det med det samme og bed mig inds
 
 Find kun den mappe eller de filer, jeg har angivet ovenfor, inklusive relevante undermapper. Hvis navnet eller placeringen er uklar, så spørg mig, inden du læser andre mapper. Jeg giver dig adgang via den lagringsmetode, jeg selv vælger. Du må ALDRIG redigere, flytte, omdøbe, slette eller overskrive mine originale filer.
 
-Undersøg de officielle eksamenskrav for hvert fag og niveau særskilt, især faglige mål, prøveform og bedømmelseskriterier, så du ikke bruger regler fra et andet fag eller en anden uddannelsestype. Forklar tydeligt, hvad jeg faktisk bliver bedømt på, og markér alt, du ikke kan verificere. Lav nye, søgbare PDF'er med et emneindeks, filoversigt, overblik over mulige mangler og letforståelige repetitionsnoter. Lav også et selvstændigt studiekompendium, der kan bruges uden internet og uden adgang til originalfilerne.
+Undersøg de officielle eksamenskrav for hvert fag og niveau særskilt, især faglige mål, prøveform og bedømmelseskriterier, så du ikke bruger regler fra et andet fag eller en anden uddannelsestype. Forklar tydeligt, hvad jeg faktisk bliver bedømt på, og markér alt, du ikke kan verificere. **Arbejd i denne rækkefølge:** (1) Registrér og analysér alle tilgængelige filer, også billeder, figurer, lyd og video; (2) organisér indholdet virtuelt i fag og emner UDEN at flytte mine originaler; (3) generér supplerende letforståelige offline-PDF'er i en ny AI-Generated-undermappe; (4) lav til SIDST én stor, søgbar `00_FIND_ALT_HER_<FAG>_....pdf` for hvert fag, der viser præcis hvor emner findes i både originalfiler og nye PDF'er. Placér hovedindekset synligt øverst i fagmappen som en helt ny fil, når min lagring understøtter det, ellers giv mig filen separat til download. Du må ikke overskrive gamle indeksfiler. Lav også et selvstændigt studiekompendium, der kan bruges uden internet og uden adgang til originalfilerne.
+
+**Billeder:** Identificér relevante illustrationer/diagrammer og beskriv dem med søgbare fagord, eksakt filnavn og side/figur. **Lyd/video:** Hvis du faktisk kan analysere dem, lav korte faglige resuméer og det vigtigste at forstå – ingen fuld ordret transskription som standard. Angiv verificerede tidsstempler, hvis muligt. Hvis du ikke kan åbne et medie, så skriv det og opfind ikke et resumé.
 
 Skriv PDF'erne på fagets undervisningssprog. Brug korte, klare forklaringer, forklar svære fagord og vis konkrete eksempler. Behold de vigtige faglige detaljer.
 
 Start med at finde ud af, hvilke filer du faktisk har adgang til, og spørg kun om nødvendige oplysninger som fag og niveau.
 ```
 
-## 📚 Hvad får du?
+## 🔎 Først og fremmest: DIN store søge-PDF
+
+**Én vigtig PDF pr. fag: `00_FIND_ALT_HER_<FAG>_....pdf`**. Den er lavet til at være den første fil, du får øje på. Den må gerne være lang — du skal bare kunne søge i den.
+
+Den viser **hvilket emne → hvilken fil → hvilken side, figur, slide eller videodel**, hvis det er verificeret. Den indeholder også henvisninger til de ekstra studie-PDF'er, som ChatGPT har lavet.
+
+| Hvor finder jeg PDF'erne? | Placering |
+|---|---|
+| **Hovedindeks** | Øverst i hver fagmappe, fx `Historie/00_FIND_ALT_HER_HISTORIE_....pdf` |
+| **Supplerende PDF'er** | I en ny undermappe, fx `Historie/AI-Generated/<dato-version>/` |
+
+**Hvis ChatGPT ikke kan skrive til dit lager**, får du i stedet filerne til download i chatten og kan selv lægge hovedindekset i fagmappen. Alle filer skal virke offline.
+
+## 📚 Hvad får du ellers?
 
 | PDF | Hvad kan du bruge den til? |
 |---|---|
 | **Start her** | Hurtigt overblik over dine materialer |
-| **Emneindeks** | Søg fx på *drivhuseffekten* og find den rigtige fil og side |
-| **Filoversigt** | Se, hvad der ligger i dine dokumenter |
-| **Pensumtjek** | Se, hvilke emner der er dækket, og hvad der måske mangler |
-| **Repetitionsnoter** | Korte, nemme forklaringer med eksempler |
-| **Eksamensoversigt** | Din prøveform, tilladte hjælpemidler og **hvad du bliver bedømt på** |
-| **Offline-studiekompendium** | Læs de vigtigste emner uden internet eller de originale filer |
-
-**Alt leveres som søgbare PDF'er.** Hvis ChatGPT kan gemme i dit valgte lager, opretter det en **ny** mappe til PDF'erne. Ellers får du PDF'erne til download i chatten.
+| **Filoversigt** | Hvad ligger i dine dokumenter? |
+| **Pensumtjek** | Hvilke emner eller kompetencer mangler måske? |
+| **Repetitionsnoter** | Korte forklaringer – også fra relevante billeder, lyd- og videoindhold |
+| **Eksamensoversigt** | Prøveform, hjælpemidler og **hvad du bliver bedømt på** |
+| **Offline-studiekompendium** | De vigtigste emner forklaret uden internet eller originale filer |
 
 ## 🔎 Find noget på 5 sekunder
 
-Åbn dit downloadede **Emneindeks.pdf**, og tryk **Ctrl+F** (på Mac: **Cmd+F**).
+Åbn **`00_FIND_ALT_HER_<FAG>_....pdf`**, og tryk **Ctrl+F** (på Mac: **Cmd+F**).
 
-Skriv fx **drivhuseffekten**. Så kan du finde emnet, en kort forklaring og henvisningen til det oprindelige dokument – hvis det er fundet og verificeret.
+Skriv fx **drivhuseffekten**. Så kan du finde både en note, et billede af en illustration, en relevant video og et AI-kompendium under samme emne, **hvis de faktisk er tilgængelige og analyseret**. Du får konkret filnavn og verificeret side/figur/tidspunkt.
 
 ## 🧠 Let at læse, men fagligt korrekt
 
@@ -83,6 +96,7 @@ ChatGPT kan ikke nødvendigvis åbne alle filer eller lagertjenester. Det skal f
 ## ℹ️ Flere oplysninger
 
 - [Fuld masterprompt](MASTER_PROMPT.md)
+- [Sådan håndteres billeder, video, lyd og søge-PDF](templates/MULTIMEDIA_AND_INDEX_WORKFLOW.md)
 - [Alle HF-fag og valgfag](subjects/FAGKATALOG.md)
 - [Hvordan bedømmes de forskellige fag?](exam-guidelines/BEDOEMMELSE_OG_FAGLIGE_KRAV.md)
 - [Hvad er en undervisningsbeskrivelse?](exam-guidelines/UNDERVISNINGSBESKRIVELSE.md)
@@ -91,7 +105,7 @@ ChatGPT kan ikke nødvendigvis åbne alle filer eller lagertjenester. Det skal f
 - [Ofte stillede spørgsmål](FAQ.md)
 - [Privatliv og ophavsret](PRIVACY_AND_COPYRIGHT.md)
 
-**Status: V0.4 – udvidet fagkatalog og kildebaserede bedømmelsesregler; flere fagspecifikke profiler mangler fortsat kontrol.** Dette er et uafhængigt elevprojekt og ikke en officiel HF & VUC FYN-tjeneste.
+**Status: V0.5 – hovedindeks pr. fag, mediestøtte og analyse-før-generering er tilføjet; workflowet mangler stadig bred praktisk test.** Dette er et uafhængigt elevprojekt og ikke en officiel HF & VUC FYN-tjeneste.
 
 ---
 
@@ -110,9 +124,9 @@ Jeg har fået mere undervisningsmateriale.
 
 Gennemgå kun den angivne mappe og dens undermapper samt de filer, jeg udtrykkeligt deler. Hvis du ikke kan finde mappen, så spørg i stedet for at gætte. Sammenlign med sidste dokumenterede filoversigt, hvis du faktisk har adgang til den. Hvis du ikke kan se den tidligere oversigt, så lav en ny gennemgang og sig det tydeligt.
 
-Find nye emner og opdater alle relevante oversigter, forklaringer og studie-PDF'er. Kontroller på ny de gældende fagspecifikke prøve- og bedømmelseskriterier for de fag, der er omfattet; gæt aldrig på censorernes fokus. Skriv kort og nemt på fagets undervisningssprog, men behold fagligt korrekte begreber og forklar dem.
+Find nye emner fra dokumenter, billeder, lyd og video (hvis du faktisk kan gennemgå dem). Organisér først referencerne virtuelt; generér derefter nye supplerende studie-PDF'er; opret til SIDST en ny `00_FIND_ALT_HER_<FAG>_....pdf` pr. fag, så også de nye PDF'er indgår i søgeindekset. Placer hovedindekset synligt i fagmappen, hvis du kan oprette nye filer dér uden at ændre andre. Ingen fuld video-/lydtransskription som standard; lav kort fagligt resumé. Kontroller de gældende fagspecifikke prøve- og bedømmelseskriterier; gæt aldrig på censorernes fokus. Skriv kort og nemt på fagets undervisningssprog, men behold fagligt korrekte begreber og forklar dem.
 
-Lav kun NYE, søgbare, offline PDF-filer i en separat mappe eller til download her i chatten. Du må ALDRIG redigere, flytte, slette, omdøbe eller overskrive mine originale filer eller mine tidligere PDF'er.
+Lav kun NYE, søgbare, offline PDF-filer: det primære indeks i fagmappen som ny fil og de andre i ny `AI-Generated`-undermappe, når lagringen understøtter det; ellers til download her i chatten. Du må ALDRIG redigere, flytte, slette, omdøbe eller overskrive mine originale filer eller mine tidligere PDF'er.
 
 Fortæl mig kort, hvilke filer du har læst, hvad der er kommet til, og hvilke nye PDF'er jeg skal downloade.
 ```
