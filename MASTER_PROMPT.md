@@ -113,13 +113,27 @@ Mine PDF'er skal kunne **læses og søges uden internet** efter download. Undgå
 
 **Forberedelse er ikke det samme som tilladt eksamenshjælp.** Kontrollér den aktuelle hjælpemiddeloversigt, fagets læreplan og eventuelle specifikke prøvevilkår. Antag ikke, at alt materiale eller alle værktøjer er tilladt til alle prøver. AI-assistenten må **ikke** anvendes under prøven, medmindre reglerne specifikt tillader det. Mærk uklare forhold som »skal bekræftes med skolen«.
 
-### H. Fremgangsmåde og opfølgning
+### H. Obligatorisk slutrapport i chatten — forklar ALT, når du er færdig
 
-Arbejd selvstændigt så langt, du kan med de data og værktøjer, der er til rådighed. Vis kort:
-1. Hvilke fag og prøveformer, hvilke præcise officielle læreplaner (med årgang) og bedømmelseskriterier, du anvender, og hvad du ikke har kunnet verificere.
-2. Hvilke filer du faktisk havde adgang til, og hvor meget du kunne læse.
-3. Hvilke nye PDF'er du genererede og deres placering eller downloadlinks.
-4. Hvilke uafklarede forhold, jeg skal kontrollere.
+**Efter HELE processen, og først når den er afsluttet eller må afbrydes pga. en reel begrænsning, skal du altid skrive en samlet slutrapport til eleven direkte i ChatGPT.** Det er ikke nok at aflevere PDF-links eller sige `færdig`. Eleven skal nemt kunne se, hvad du faktisk har gjort, hvad du ikke fik gjort, og hvad vedkommende skal bruge eller downloade.
+
+**Skriv på enkelt dansk i chatten**, med korte overskrifter og få linjer per punkt. De genererede fag-PDF'er skrives fortsat på fagets undervisningssprog. Brug **status `Færdig`, `Delvist færdig` eller `Ikke gennemført`** efter faktisk resultat; markér tydeligt uafsluttede ting. Brug denne faste rækkefølge:
+
+1. **Resultat og hvad du kan gøre nu:** `FÆRDIG / DELVIST FÆRDIG / IKKE GENNEMFØRT`. Én til to sætninger om fag og hvor eleven skal begynde: den faktiske `00_FIND_ALT_HER`-PDF (med direkte link eller præcis lagringssti). Hvis denne PDF mangler, sig det og angiv hvorfor.
+2. **Hvad jeg gennemgik:** præcis valgt mappe, eventuelle relevante undermapper/fag, faktisk antal **fundne**, **fuldt analyserede**, **delvist analyserede** og **ikke analyserede** filer, gerne opdelt i dokumenter/billeder/lyd/video. Ingen gættede optællinger. Er antal ukendt, skriv `antal ikke verificeret`. Angiv tydeligt, hvis hele mappen **ikke** kunne gennemses.
+3. **Hvad jeg organiserede og fandt:** antal verificerede fag/emner når kendt; kort opsummering af vigtige emner og relaterede billeder/lyd/video, mulige mangler, eventuelle undervisningsbeskrivelser og hvilke officielle fag-/bedømmelseskilder der faktisk blev kontrolleret (læreplansår og status). Dette er virtuel organisering — ingen originalfiler er flyttet.
+4. **Nye PDF'er og placering:** En **kort tabel pr. fag** med alle faktisk oprettede PDF-filer: `Filnavn | Hvad er den til? | Præcis placering eller downloadlink | Status`. Sæt **hovedindekset øverst** og de øvrige PDF'er efter. Hvis noget er planlagt, men **ikke oprettet**, vis det separat under `Ikke oprettet`, ikke i listen over færdige filer. Påstå ikke at have gemt eller leveret en fil uden bekræftet resultat.
+5. **Begrænsninger og usikkerheder:** Kort og konkret om utilgængelige filer/formater, delvist læste dokumenter, ikke-afspillet lyd/video, manglende sidetal/tidsstempler, uklar læreplan eller usikker bedømmelsesdækning. Ved mange filer: angiv antal og henvis til `02_FILOVERSIGT` for **fuld liste med originale filnavne**. Skjul aldrig fejl.
+6. **Hvad der blev ændret:** Oplys eksplicit, at **ingen originale elevfiler blev ændret, slettet, omdøbt eller flyttet**. Oplist udelukkende **de nye filer og mapper, som reelt blev oprettet**. Hvis du ikke kan efterprøve en handling, sig det; fremsæt ikke udokumenterede garantier.
+7. **Elevens næste skridt:** Forklar **hvilken hoved-PDF der skal åbnes**, at `Ctrl+F`/`Cmd+F` bruges til at søge, **hvilke nye PDF'er der skal downloades** for at virke offline, og om enkelte originale filer også skal downloades for at følge henvisningerne. Mind kort om, at **offline ikke automatisk betyder tilladt til eksamen**, og præcis hvilke skole-/prøveforhold der skal kontrolleres.
+
+**Ingen lange tekstvægge i selve chatten.** Hvis der er 300 originalfiler, skal du give verificerede tal og en overskuelig opsummering her; den **fulde fil-for-fil-oversigt** skal stå i den nye `02_FILOVERSIGT`-PDF og være søgbar via hovedindekset. Hvis rapporten ikke kan leveres, må du ikke kalde processen færdig. Hvis processen stoppes tidligt, lever en ærlig **delvis slutrapport** med det, du faktisk nåede.
+
+**Ved senere opdateringer:** Samme slutrapport, plus et separat kort afsnit: `Hvad er nyt siden sidst?` (nye, ændrede og ikke længere tilgængelige kilder **kun hvis dokumenteret**, opdaterede emner, nye PDF-versioner og den nye hovedindeksfil). Sig `kan ikke sammenlignes sikkert`, hvis du mangler en pålidelig tidligere oversigt. **Ændr aldrig gamle eller originale filer.**
+
+### I. Fremgangsmåde og opfølgning
+
+Arbejd selvstændigt så langt, du kan med de data og værktøjer, der er til rådighed. Kontrollér til sidst, at de genererede filer faktisk kan åbnes, at hovedindekset kan søges i, at alle erklærede oprettelser er bekræftede, og at den **obligatoriske slutrapport i afsnit H** er skrevet til eleven. Oplys de officielle fag-/bedømmelseskilder og usikkerheder. **Ingen påstande om fuldførelse uden dokumenteret grundlag.**
 
 Når jeg senere siger »Opdatér min eksamenspakke«, så undersøg det oplyste område igen, sammenlign med sidste verificerede gennemgang, og lav **nye versioner** af PDF'erne uden at ændre gamle eller originale filer. Hvis der ikke findes et pålideligt tidligere indeks, så sig det og foretag en ny fuld gennemgang i stedet for at opfinde ændringer.
 
@@ -129,4 +143,4 @@ Begynd med at kontrollere, hvilke af de nødvendige kilder og elevfiler du fakti
 
 ---
 
-**Projektversion:** 0.5 · 2026-11-16. Se også [PDF-specifikation](templates/PDF_OUTPUT_SPEC.md) og [privacy og copyright](PRIVACY_AND_COPYRIGHT.md).
+**Projektversion:** 0.6 · 2026-11-16. Se også [PDF-specifikation](templates/PDF_OUTPUT_SPEC.md) og [privacy og copyright](PRIVACY_AND_COPYRIGHT.md).
