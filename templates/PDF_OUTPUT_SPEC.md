@@ -72,6 +72,21 @@ Rapporten skal tydeligt oplyse, om resultatet dækker en **udvalgt mappe** eller
 - Skal tydeligt vise dokumenteret/ikke dokumenteret indhold og må ikke foregive at være en komplet gengivelse af enhver originalfil.
 - Genudgiv ikke hele beskyttede lærebøger, beskyttede billeder eller længere beskyttede tekster. Hvis eleven lovligt selv ejer rettigheder til egne noter, kan vedkommende særskilt bede om en ny PDF-eksportkopi; originalen må stadig ikke ændres.
 
+## Sprog og læsbarhed (obligatorisk)
+
+**PDF'erne skal kunne forstås af en almindelig HF-elev uden at kende emnet i forvejen.** Gør dem lette at skimme, men komplette nok til en faglig forklaring.
+
+- **Brug fagets undervisningssprog**: fx dansk for historie/matematik og engelsk for Engelsk B, medmindre eleven oplyser noget andet. Oversæt ikke fagudtryk forkert for at gøre dem lettere.
+- Skriv korte sætninger og afsnit. Ét centralt budskab ad gangen.
+- Definér vigtige fagord første gang, de bruges. Tilføj en kort ordliste ved behov.
+- Brug et **konkret eksempel** til hvert kompliceret emne, når det kan gøres fagligt korrekt.
+- Forklar mellemled, så eleven kan forstå **hvordan** og **hvorfor** – ikke bare huske en definition.
+- Foretræk meningsfulde overskrifter, små underafsnit, punktopstillinger og tydelige sider frem for store tekstblokke.
+- Eksempel på emneside: `Kort forklaret` → `Fagord` → `Sådan hænger det sammen` → `Eksempel` → `Kilde i mine noter`.
+- For matematik: vis mellemregninger og forklar regneregler. For naturfag: forklar årsager, processer og konsekvenser. For sprogfag: vis korte sætninger på fagets sprog.
+- Forenkling må **ikke** udelade nødvendige faglige præciseringer eller fremstille gæt som fakta.
+- Gør det tydeligt, hvad der er fra kilder, og hvad AI selv har formuleret.
+
 ## Formatering
 
 - A4, fornuftige margener, tydelige overskrifter, læselig størrelse og sidetal.
