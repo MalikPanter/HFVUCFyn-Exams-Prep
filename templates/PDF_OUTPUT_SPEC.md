@@ -72,7 +72,7 @@ Rapporten skal tydeligt oplyse, om resultatet dækker en **udvalgt mappe** eller
 
 ### `06_OFFLINE_STUDIEKOMPENDIUM_ÅÅÅÅ-MM-DD.pdf`
 
-- **Vægt fagets dokumenterede kompetencer og bedømmelseskriterier**, ikke bare en generisk emneliste; include praktiske metoder, tekstanalyse, kilder, regnebegrundelser eller forsøgsdata efter faget.
+- **Vægt fagets dokumenterede kompetencer og bedømmelseskriterier**, ikke bare en generisk emneliste; medtag praktiske metoder, tekstanalyse, kilder, regnebegrundelser eller forsøgsdata efter faget.
 - Ét selvstændigt søgbart hæfte med korte, selvstændigt formulerede forklaringer af de emner, som reelt kunne udledes af elevens dokumenter og verificerede læreplanskrav.
 - Skal fungere som **offline repetition uden adgang til originalfilerne**. Medtag nødvendige forklaringer, definitioner, regneeksempler og tydeligt mærkede supplerende noter.
 - Skal tydeligt vise dokumenteret/ikke dokumenteret indhold og må ikke foregive at være en komplet gengivelse af enhver originalfil.
