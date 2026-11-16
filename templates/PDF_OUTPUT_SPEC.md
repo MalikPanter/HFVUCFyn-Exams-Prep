@@ -39,6 +39,7 @@
 ### `01_START_HER_ÅÅÅÅ-MM-DD.pdf`
 
 - Fag, niveau, type (toårigt hf/hf-enkeltfag), dato og kildegrundlag.
+- **Kort produktions-/slutstatus** til offline læsning: faktisk analyserede/delvist analyserede/ikke læste filer, oversigt over faktisk oprettede PDF'er med filnavne og placering, begrænsninger, nye versioner og næste trin. Dette skal stemme med den **obligatoriske slutrapport i ChatGPT**, ikke erstatte den.
 - Dækning af tilgængelige originalfiler: fundet/læst/delvist/ikke læst.
 - Indholdsfortegnelse for PDF-pakken, læseforslag, begrænsninger.
 - **Offline-vejledning**: hvilke filer der skal ligge lokalt, og test af søgning uden internet.
