@@ -1,67 +1,105 @@
-# HFVUC Fyn Exams Prep
+# 🎓 HFVUC Fyn Exams Prep
 
-**Gratis, åbent og lager-uafhængigt eksamensforberedelsessystem til HF-elever.**
+**Dine noter → styr på pensum → nemme PDF'er til eksamen.**
 
-Dette er **ikke** en app, en uploadportal eller et sted, hvor elever skal dele private skolefiler. GitHub indeholder offentlige instruktioner og verificerbare kilder. Eleven beholder sine noter og opgaver i sin foretrukne løsning: fx en lokal mappe, Google Drive, OneDrive, Dropbox eller filer, der deles direkte med ChatGPT.
+Brug ChatGPT til at samle og forstå dine HF-noter. Du bestemmer selv, hvor dine filer ligger. **Ingen ekstra app. Ingen upload til vores GitHub.**
 
-> **Mål:** Hjælp eleven med at finde viden i sine egne dokumenter, se hvilke emner der er dækket, og få en søgbar **PDF-pakke til offline brug**. Originale elevfiler må aldrig ændres.
+## 🚀 Kom i gang på 1 minut
 
-## Sådan kommer du i gang (elev)
+1. **Find dine noter** – fx i Google Drive, OneDrive, Dropbox eller på din computer.
+2. **Kopiér startprompten herunder** ind i en ny ChatGPT-chat.
+3. **Del den mappe eller de filer**, du vil bruge. ChatGPT hjælper med at lave dine PDF'er.
 
-1. Find den mappe eller de filer, du vil have hjælp til. Du behøver **ikke** flytte eller omdøbe dem. Brug gerne din eksisterende cloudtjeneste eller en lokal mappe.
-2. Åbn [MASTER_PROMPT.md](MASTER_PROMPT.md), kopier hele prompten, og indsæt den i en ny ChatGPT-samtale.
-3. Giv ChatGPT adgang til **netop de filer**, du selv vælger, via understøttet forbindelse eller filupload. Angiv fag, niveau og om du følger toårigt hf eller hf-enkeltfag, hvis det ikke fremgår.
-4. ChatGPT undersøger de tilgængelige filer, viser en oversigt og markerer tydeligt filer, den **ikke** kunne læse.
-5. Du får en **PDF-pakke**: startguide, emneindeks, filoversigt, overblik over eventuelle mangler og supplerende noter efter behov. PDF-filerne gemmes i en *ny* outputmappe, hvis din valgte tjeneste understøtter det. Ellers leveres de til dig i samtalen, så du selv kan gemme dem dér, hvor du vil.
-6. **Download PDF-pakken til din egen computer**, og afprøv den helt uden internet. Hvis eksamensreglerne tillader det, kan relevante offline materialer være nyttige til prøven. Tjek altid reglerne for din konkrete prøve.
+Du skal **ikke** sortere eller omdøbe dine filer først.
 
-**Du skal ikke sende dine noter til GitHub.** Del aldrig adgangskoder, CPR-numre, private oplysninger om andre eller andres ophavsretligt beskyttede dokumenter offentligt.
-
-## Hvad systemet gør
-
-- Læser **kun** filer, du udtrykkeligt har gjort tilgængelige.
-- Opretter et søgbart emneindeks med kildefil, side/afsnit, alternative søgeord og eventuelle usikkerheder.
-- Opretter et selvstændigt **offline-studiekompendium i PDF**, så vigtig repetition kan foregå uden adgang til cloud eller de oprindelige filer.
-- Opretter en filoversigt, også med fejl og filer, der ikke kunne læses.
-- Sammenholder, hvor det er muligt, dit materiale med **den relevante** officielle læreplan og prøvevejledning.
-- Angiver **»ikke fundet i de tilgængelige filer«**, ikke »du har ikke lært det«, når materiale mangler.
-- Skriver nye, tydeligt mærkede supplerende noter i PDF-form, hvor det giver mening.
-- **Ændrer aldrig** dine originale filer: ingen sletning, flytning, omdøbning, omskrivning eller overskrivning.
-- Producerer en separat, tidsstemplet PDF-pakke ved opdateringer.
-
-## Hvad systemet ikke lover
-
-- At ChatGPT kan åbne alle lagertjenester, private mapper, scannede billeder eller store dokumenter automatisk. Understøttelse og adgang afhænger af din ChatGPT-opsætning. Utilgængelige filer rapporteres som sådanne.
-- At din PDF-pakke dækker alt pensum, før de relevante læreplaner er kontrolleret.
-- At AI-genererede svar eller digitale hjælpemidler må bruges under en prøve. **Forberedelse og prøvesituationen er to forskellige ting.** Se [eksamensregler](exam-guidelines/README.md).
-
-## Repository-struktur
+### 📋 Kopiér denne startprompt
 
 ```text
-HFVUCFyn-Exams-Prep/
-├── README.md                 # Elevens startside
-├── MASTER_PROMPT.md          # Kopiér og indsæt i ChatGPT
-├── PRIVACY_AND_COPYRIGHT.md  # Datahåndtering og deling
-├── CONTRIBUTING.md           # Sådan hjælper du projektet
-├── exam-guidelines/
-│   ├── README.md             # Prøve- og hjælpemiddelregler
-│   └── OFFICIAL_SOURCES.md   # Verificerbare officielle kilder
-├── subjects/
-│   ├── README.md             # Fag og niveauer
-│   └── ...                   # Gradvis udbygning
-└── templates/
-    ├── SUBJECT_TEMPLATE.md   # Skabelon til et fags offentlige mappe
-    └── PDF_OUTPUT_SPEC.md    # Formatkrav til elevens PDF-pakke
+Jeg vil lave min personlige HF-eksamenspakke.
+
+Læs og følg instruktionerne i:
+https://github.com/MalikPanter/HFVUCFyn-Exams-Prep/blob/main/MASTER_PROMPT.md
+
+Hvis du ikke kan læse masterprompten, så sig det med det samme og bed mig indsætte den. Gæt ikke på indholdet.
+
+Jeg giver dig adgang til mine noter via den lagringsmetode, jeg selv vælger. Læs kun det materiale, jeg deler med dig. Du må ALDRIG redigere, flytte, omdøbe, slette eller overskrive mine originale filer.
+
+Lav nye, søgbare PDF'er med et emneindeks, filoversigt, overblik over mulige mangler og letforståelige repetitionsnoter. Lav også et selvstændigt studiekompendium, der kan bruges uden internet og uden adgang til originalfilerne.
+
+Skriv PDF'erne på fagets undervisningssprog. Brug korte, klare forklaringer, forklar svære fagord og vis konkrete eksempler. Behold de vigtige faglige detaljer.
+
+Start med at finde ud af, hvilke filer du faktisk har adgang til, og spørg kun om nødvendige oplysninger som fag og niveau.
 ```
 
-Elevens personlige mappe ligger **uden for dette offentlige repository** og kan have enhver struktur. Eventuelle navne som `AI-Generated` er eksempler, ikke krav.
+## 📚 Hvad får du?
 
-## Status
+| PDF | Hvad kan du bruge den til? |
+|---|---|
+| **Start her** | Hurtigt overblik over dine materialer |
+| **Emneindeks** | Søg fx på *drivhuseffekten* og find den rigtige fil og side |
+| **Filoversigt** | Se, hvad der ligger i dine dokumenter |
+| **Pensumtjek** | Se, hvilke emner der er dækket, og hvad der måske mangler |
+| **Repetitionsnoter** | Korte, nemme forklaringer med eksempler |
+| **Eksamensoversigt** | Verificerede oplysninger om din prøve |
+| **Offline-studiekompendium** | Læs de vigtigste emner uden internet eller de originale filer |
 
-**Version 0.1 — grundstruktur.** Systemet bygger på instruktioner og ChatGPT's reelle adgang til elevens filer, ikke på en installeret eller automatiseret app. Første test skal validere hele processen i et konkret fag og med forskellige lagringsmetoder.
+**Alt leveres som søgbare PDF'er.** Hvis ChatGPT kan gemme i dit valgte lager, opretter det en **ny** mappe til PDF'erne. Ellers får du PDF'erne til download i chatten.
 
-## Kilder og ansvar
+## 🔎 Find noget på 5 sekunder
 
-Dette er et uafhængigt elevprojekt — **ikke** en officiel tjeneste fra HF & VUC FYN, STUK eller Børne- og Undervisningsministeriet. Regler og læreplaner ændrer sig. Kontrollér dem altid hos [skolen](https://www.vucfyn.dk/studieinfo/eksamen/hf-eksamen/) og [ministeriet](https://uvm.dk/uddannelse-til-unge/gymnasiale-uddannelser/fag-og-laereplaner/hf-laereplaner/).
+Åbn dit downloadede **Emneindeks.pdf**, og tryk **Ctrl+F** (på Mac: **Cmd+F**).
 
-Har du rettelser, en lovligt delbar kilde eller en idé, så læs [CONTRIBUTING.md](CONTRIBUTING.md).
+Skriv fx **drivhuseffekten**. Så kan du finde emnet, en kort forklaring og henvisningen til det oprindelige dokument – hvis det er fundet og verificeret.
+
+## 🧠 Let at læse, men fagligt korrekt
+
+PDF'erne skal være **nemme at forstå**, uden lange tekstvægge:
+
+- Korte sætninger og tydelige overskrifter.
+- Svære fagord forklaret med almindelige ord.
+- Konkrete eksempler og forklaringer af både **hvad**, **hvordan** og **hvorfor**.
+- **Fagets sprog:** fx dansk i historie og engelsk i engelsk, medmindre eleven oplyser andet.
+- Ingen opdigtede sidetal, kilder eller eksamenskrav.
+
+## 🔒 Dine filer er dine
+
+**Originalfiler må aldrig ændres.** ChatGPT må kun læse de filer, du giver adgang til, og oprette **nye PDF'er**. Dine noter skal ikke lægges i vores offentlige repository.
+
+ChatGPT kan ikke nødvendigvis åbne alle filer eller lagertjenester. Det skal fortælle dig præcis, hvad det faktisk kunne læse, og hvad der mangler.
+
+## 📵 Husk før eksamen
+
+**Download PDF'erne**, og tjek, at de virker **uden internet**. Hvis du vil åbne et originaldokument, skal dét også ligge offline.
+
+**Offline betyder ikke automatisk tilladt til eksamen.** Hjælpemidler afhænger af fag og prøveform. Følg altid skolens og ministeriets gældende regler. ChatGPT bruges til forberedelse – ikke under prøven, medmindre det udtrykkeligt er tilladt.
+
+## ℹ️ Flere oplysninger
+
+- [Fuld masterprompt](MASTER_PROMPT.md)
+- [Fag og niveauer](subjects/README.md)
+- [Officielle eksamensregler og kilder](exam-guidelines/README.md)
+- [Ofte stillede spørgsmål](FAQ.md)
+- [Privatliv og ophavsret](PRIVACY_AND_COPYRIGHT.md)
+
+**Status: V0.2 – klar til første elevtest, endnu ikke fuldt afprøvet.** Dette er et uafhængigt elevprojekt og ikke en officiel HF & VUC FYN-tjeneste.
+
+---
+
+## 🔄 Har du fået nye noter? Kopiér denne opdateringsprompt
+
+Du behøver ikke starte forfra eller ændre noget i dine mapper.
+
+```text
+Opdatér min HF-eksamenspakke efter instruktionerne i:
+https://github.com/MalikPanter/HFVUCFyn-Exams-Prep/blob/main/MASTER_PROMPT.md
+
+Jeg har fået mere undervisningsmateriale.
+
+Gennemgå de filer, jeg nu giver dig adgang til. Sammenlign med sidste dokumenterede filoversigt, hvis du faktisk har adgang til den. Hvis du ikke kan se den tidligere oversigt, så lav en ny gennemgang og sig det tydeligt.
+
+Find nye emner og opdater alle relevante oversigter, forklaringer og studie-PDF'er. Skriv kort og nemt på fagets undervisningssprog, men behold fagligt korrekte begreber og forklar dem.
+
+Lav kun NYE, søgbare, offline PDF-filer i en separat mappe eller til download her i chatten. Du må ALDRIG redigere, flytte, slette, omdøbe eller overskrive mine originale filer eller mine tidligere PDF'er.
+
+Fortæl mig kort, hvilke filer du har læst, hvad der er kommet til, og hvilke nye PDF'er jeg skal downloade.
+```
